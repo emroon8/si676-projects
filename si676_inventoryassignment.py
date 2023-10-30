@@ -21,7 +21,7 @@ def get_checksum(file_path, checksum_type):
     return hash_string
 
 
-directory = 'webfiles-samples'
+directory = os.path.join('data', 'webfiles-samples')
 dir_list = os.listdir(directory)
 print(dir_list)
 
@@ -32,6 +32,7 @@ manifestInfo = list()
 for folder_name, sub_folders, file_names in os.walk(directory):
     for file in file_names:
         relative_path = os.path.relpath(file)
+        # print(relative_path)
         name = file
         file_extension = os.path.splitext(name)[1]
         file_size = os.path.getsize(relative_path)
@@ -60,8 +61,8 @@ headers = [
     'file_integrity_info'
     ]
 
-# with open('file-manifest.csv', 'w') as f:
-#     writer = csv.writer(f)
-#     writer.writerow(headers)
-#     for file in inventory_info:
-#         writer.writerow(file)
+with open('file-manifest.csv', 'w') as f:
+    writer = csv.writer(f)
+    writer.writerow(headers)
+    for file in manifestInfo:
+        writer.writerow(file)

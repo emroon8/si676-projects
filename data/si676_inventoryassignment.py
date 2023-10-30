@@ -61,8 +61,8 @@ headers = [
     'file_integrity_info'
     ]
 
-# with open('file-manifest.csv', 'w') as f:
-#     writer = csv.writer(f)
-#     writer.writerow(headers)
-#     for file in inventory_info:
-#         writer.writerow(file)
+with open('file-manifest.csv', 'w') as f:
+    writer = csv.writer(f)
+    writer.writerow(headers)
+    for file in manifestInfo:
+        writer.writerow(file)
