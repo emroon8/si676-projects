@@ -13,9 +13,9 @@ def get_checksum(file_path, checksum_type):
     with open(file_path, 'rb') as f:
         bytes = f.read()
         if checksum_type == 'md5':
-            hash_string = hashlib.md5(bytes).hexidigest()
+            hash_string = hashlib.md5(bytes).hexdigest()
         elif checksum_type == 'sha256':
-            hash_string = hashlib.sha256(bytes).hexidigest()
+            hash_string = hashlib.sha256(bytes).hexdigest()
         else:
             raise('{} is not a hash function supposted by this program.')
     return hash_string
@@ -31,7 +31,7 @@ manifestInfo = list()
 
 for folder_name, sub_folders, file_names in os.walk(directory):
     for file in file_names:
-        relative_path = os.path.relpath(file)
+        relative_path = os.path.join(folder_name, file)
         # print(relative_path)
         name = file
         file_extension = os.path.splitext(name)[1]
