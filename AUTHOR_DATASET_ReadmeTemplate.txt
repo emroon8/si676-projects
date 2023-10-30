@@ -5,7 +5,7 @@
 
 GENERAL INFORMATION
 
-Title of Dataset: webfiles-samples
+Title of Dataset: webfiles-samples inventory
 
 <provide at least two contacts>
 Author/Principal Investigator Information
