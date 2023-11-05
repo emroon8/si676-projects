@@ -22,8 +22,8 @@ def get_checksum(file_path, checksum_type):
 
 
 directory = os.path.join('data', 'webfiles-samples')
-dir_list = os.listdir(directory)
-print(dir_list)
+# dir_list = os.listdir(directory)
+# print(dir_list)
 
 fileInfo = list()
 manifestInfo = list()
