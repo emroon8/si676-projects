@@ -1,0 +1,457 @@
+{
+  "_version_": 1782465251296411648,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/ca0581/",
+    "http://www.loc.gov/item/ca0581/",
+    "http://www.loc.gov/pictures/item/ca0581/",
+    "https://www.loc.gov/pictures/collection/hh/item/ca0581/",
+    "http://www.loc.gov/pictures/collection/hh/item/ca0581/",
+    "https://cdn.loc.gov/master/pnp/habshaer/ca/ca0500/ca0581/data/ca0581data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/ca/ca0500/ca0581/data/ca0581data.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=photograph: ca0581&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov:8081/pictures/search/?q=photograph: ca0581&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "https://www.loc.gov:8081/pictures/search/?q=drawing: ca0581&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov:8081/pictures/search/?q=drawing: ca0581&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.ca0581data/",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet/",
+    "http://www.loc.gov/resource/hhh.ca0581.photos/",
+    "http://www.loc.gov/resource/hhh.ca0581.photos",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015228p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015229p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015230p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015231p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015232p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015233p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015234p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015235p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015236p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015237p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015238p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015239p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015240p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015241p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015242p",
+    "http://www.loc.gov/resource/hhh.ca0581.photos.015243p",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00000a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00001a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00002a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00003a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00004a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00005a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00006a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00007a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00008a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00009a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00010a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00011a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00012a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00013a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00014a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00015a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00016a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00017a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00018a",
+    "http://www.loc.gov/resource/hhh.ca0581.sheet.00019a"
+  ],
+  "call_number": "HABS CAL,37-POLO,1-",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Buildings Survey, creator",
+    "Gibbon & Kelley",
+    "Keating, James P",
+    "Carnes, W G, project manager",
+    "Santos, B, delineator",
+    "Langdon, J G, delineator",
+    "White, H C, photographer",
+    "Fowler, M G, photographer",
+    "Davidson, Winifred, historian",
+    "Langdon, James G, historian",
+    "Peterson, C E, photographer"
+  ],
+  "contributors": [
+    {
+      "carnes, w g": "https://www.loc.gov/search/?fa=contributor:carnes,+w+g&fo=json"
+    },
+    {
+      "davidson, winifred": "https://www.loc.gov/search/?fa=contributor:davidson,+winifred&fo=json"
+    },
+    {
+      "fowler, m g": "https://www.loc.gov/search/?fa=contributor:fowler,+m+g&fo=json"
+    },
+    {
+      "gibbon & kelley": "https://www.loc.gov/search/?fa=contributor:gibbon+%26+kelley&fo=json"
+    },
+    {
+      "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+    },
+    {
+      "keating, james p": "https://www.loc.gov/search/?fa=contributor:keating,+james+p&fo=json"
+    },
+    {
+      "langdon, j g": "https://www.loc.gov/search/?fa=contributor:langdon,+j+g&fo=json"
+    },
+    {
+      "langdon, james g": "https://www.loc.gov/search/?fa=contributor:langdon,+james+g&fo=json"
+    },
+    {
+      "peterson, c e": "https://www.loc.gov/search/?fa=contributor:peterson,+c+e&fo=json"
+    },
+    {
+      "santos, b": "https://www.loc.gov/search/?fa=contributor:santos,+b&fo=json"
+    },
+    {
+      "white, h c": "https://www.loc.gov/search/?fa=contributor:white,+h+c&fo=json"
+    }
+  ],
+  "control_number": "ca0581",
+  "created": "2016-04-16T22:10:47Z",
+  "created_published": [
+    "Documentation compiled after 1933"
+  ],
+  "created_published_date": "Documentation compiled after 1933",
+  "description": [
+    "Photo(s): 16 | Measured Drawing(s): 20 | Data Page(s): 15"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-11-13T15:58:22.959Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/ca0581/#hh-1"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-1",
+    "habshaer-group-1"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/ca0581/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228p_150px.jpg#h=108&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228pr.jpg#h=460&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228pv.jpg#h=736&w=1024"
+  ],
+  "index": 4,
+  "item": {
+    "call_number": "HABS CAL,37-POLO,1-",
+    "contributor_names": [
+      "Gibbon & Kelley,  ",
+      "Keating, James P,  ",
+      "Carnes, W G, project manager ",
+      "Santos, B, delineator ",
+      "Langdon, J G, delineator ",
+      "White, H C, photographer ",
+      "Fowler, M G, photographer ",
+      "Davidson, Winifred, historian ",
+      "Langdon, James G, historian ",
+      "Peterson, C E, photographer "
+    ],
+    "control_number": "ca0581",
+    "created": "2016-04-16T22:10:47Z",
+    "created_published": "Documentation compiled after 1933",
+    "created_published_date": "Documentation compiled after 1933",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+        "role": "creator",
+        "title": "Historic American Buildings Survey"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Gibbon%20%26%20Kelley&co=hh",
+        "role": "",
+        "title": "Gibbon & Kelley"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Keating%2C%20James%20P&co=hh",
+        "role": "",
+        "title": "Keating, James P"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Carnes%2C%20W%20G&co=hh",
+        "role": "project manager",
+        "title": "Carnes, W G"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Santos%2C%20B&co=hh",
+        "role": "delineator",
+        "title": "Santos, B"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Langdon%2C%20J%20G&co=hh",
+        "role": "delineator",
+        "title": "Langdon, J G"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=White%2C%20H%20C&co=hh",
+        "role": "photographer",
+        "title": "White, H C"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Fowler%2C%20M%20G&co=hh",
+        "role": "photographer",
+        "title": "Fowler, M G"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Davidson%2C%20Winifred&co=hh",
+        "role": "historian",
+        "title": "Davidson, Winifred"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Langdon%2C%20James%20G&co=hh",
+        "role": "historian",
+        "title": "Langdon, James G"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Peterson%2C%20C%20E&co=hh",
+        "role": "photographer",
+        "title": "Peterson, C E"
+      }
+    ],
+    "display_offsite": true,
+    "id": "ca0581",
+    "link": "https://www.loc.gov/pictures/item/ca0581/",
+    "medium_brief": "Photo(s): 16, Measured Drawing(s): 20, Data Page(s): 15",
+    "mediums": [
+      "Photo(s): 16 ",
+      "Measured Drawing(s): 20 ",
+      "Data Page(s): 15 "
+    ],
+    "modified": "2023-10-21T01:15:27Z",
+    "notes": [
+      "Unprocessed Field note material exists for this structure: FN-8 ",
+      "Survey number: HABS CA-41 ",
+      "Building/structure dates:    1854- 1855 Initial Construction ",
+      "Building/structure dates: 1891 Subsequent Work "
+    ],
+    "other_title": [
+      "Cabrillo National Monument\nOld Point Loma Lighthouse\nOld Spanish Lighthouse"
+    ],
+    "part_of": "Historic American Buildings Survey (Library of Congress)",
+    "part_of_group": "Survey Number ca0581",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--San%20Diego%20County--San%20Diego&co=hh",
+        "longitude": "",
+        "title": "California -- San Diego County -- San Diego"
+      },
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--San%20Diego--Point%20Loma&co=hh",
+        "longitude": "",
+        "title": "California -- San Diego -- Point Loma"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0500/ca0581/data/ca0581data.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Photograph: ca0581&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+      "https://www.loc.gov:8081/pictures/search/?q=Drawing: ca0581&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228p_150px.jpg?q=ca0581.photos.015228p&c=16&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228pr.jpg?q=ca0581.photos.015228p&c=16&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T22:10:00Z",
+    "subject_headings": [
+      "lighthouses",
+      "stone buildings",
+      "navigation",
+      "moving of structures",
+      "maritime",
+      "California -- San Diego County -- San Diego",
+      "California -- San Diego -- Point Loma"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228p_150px.jpg?q=ca0581.photos.015228p&c=16&st=gallery",
+    "title": "Point Loma Lighthouse No. 355, (moved), San Diego, San Diego County, CA"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "link": "https://www.loc.gov/pictures/item/ca0581/",
+  "location": [
+    "san diego county",
+    "san diego",
+    "california",
+    "point loma"
+  ],
+  "locations": [
+    {
+      "california": "https://www.loc.gov/search/?fa=location:california&fo=json"
+    },
+    {
+      "point loma": "https://www.loc.gov/search/?fa=location:point+loma&fo=json"
+    },
+    {
+      "san diego": "https://www.loc.gov/search/?fa=location:san+diego&fo=json"
+    },
+    {
+      "san diego county": "https://www.loc.gov/search/?fa=location:san+diego+county&fo=json"
+    }
+  ],
+  "medium": [
+    "Photo(s): 16 ",
+    "Measured Drawing(s): 20 ",
+    "Data Page(s): 15 "
+  ],
+  "medium_brief": "Photo(s): 16, Measured Drawing(s): 20, Data Page(s): 15",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-10-21T01:15:27Z",
+  "notes": [
+    "Unprocessed Field note material exists for this structure: FN-8 ",
+    "Survey number: HABS CA-41 ",
+    "Building/structure dates:    1854- 1855 Initial Construction ",
+    "Building/structure dates: 1891 Subsequent Work "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number ca0581",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--San%20Diego%20County--San%20Diego&co=hh",
+      "longitude": "",
+      "title": "California -- San Diego County -- San Diego"
+    },
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--San%20Diego--Point%20Loma&co=hh",
+      "longitude": "",
+      "title": "California -- San Diego -- Point Loma"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ca0581&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0500/ca0581/data/ca0581data.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=Photograph: ca0581&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+    "https://www.loc.gov:8081/pictures/search/?q=Drawing: ca0581&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS CA-41 ",
+      "files": 16,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228p_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.ca0581.photos"
+    },
+    {
+      "caption": "Drawings from Survey HABS CA-41 ",
+      "files": 20,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/sheet/00000_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.ca0581.sheet"
+    },
+    {
+      "caption": "Data Pages from Survey HABS CA-41 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 37.635475,
+  "shard": "00",
+  "shelf_id": "HABS CAL,37-POLO,1-",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Buildings Survey (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "lighthouses",
+    "navigation",
+    "moving of structures",
+    "maritime",
+    "stone buildings"
+  ],
+  "subject_headings": [
+    "lighthouses",
+    "stone buildings",
+    "navigation",
+    "moving of structures",
+    "maritime",
+    "California -- San Diego County -- San Diego",
+    "California -- San Diego -- Point Loma"
+  ],
+  "subjects": [
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "moving of structures": "https://www.loc.gov/search/?fa=subject:moving+of+structures&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "stone buildings": "https://www.loc.gov/search/?fa=subject:stone+buildings&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0500/ca0581/photos/015228p_150px.jpg?q=ca0581.photos.015228p&c=16&st=gallery",
+  "timestamp": "2023-11-13T16:02:09.295Z",
+  "title": "Point Loma Lighthouse No. 355, (moved), San Diego, San Diego County, CA",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/ca0581/"
+}

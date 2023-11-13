@@ -1,0 +1,312 @@
+{
+  "_version_": 1775123530347708416,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/wi0305/",
+    "http://www.loc.gov/item/wi0305/",
+    "http://www.loc.gov/pictures/item/wi0305/",
+    "https://www.loc.gov/pictures/collection/hh/item/wi0305/",
+    "http://www.loc.gov/pictures/collection/hh/item/wi0305/",
+    "https://cdn.loc.gov/master/pnp/habshaer/wi/wi0300/wi0305/data/wi0305data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/wi/wi0300/wi0305/data/wi0305data.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=drawing: wi0305&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov:8081/pictures/search/?q=drawing: wi0305&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.wi0305data/",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet/",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00001a",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00002a",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00003a",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00004a",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00005a",
+    "http://www.loc.gov/resource/hhh.wi0305.sheet.00006a"
+  ],
+  "call_number": "HABS WIS,2-LPOIT.V,1A-",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Buildings Survey, creator",
+    "Simpson, Leonard H, delineator",
+    "Spoden, Patrick J, delineator",
+    "Lewis, Gillian, delineator"
+  ],
+  "contributors": [
+    {
+      "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+    },
+    {
+      "lewis, gillian": "https://www.loc.gov/search/?fa=contributor:lewis,+gillian&fo=json"
+    },
+    {
+      "simpson, leonard h": "https://www.loc.gov/search/?fa=contributor:simpson,+leonard+h&fo=json"
+    },
+    {
+      "spoden, patrick j": "https://www.loc.gov/search/?fa=contributor:spoden,+patrick+j&fo=json"
+    }
+  ],
+  "control_number": "wi0305",
+  "created": "2016-04-18T09:09:07Z",
+  "created_published": [
+    "Documentation compiled after 1933"
+  ],
+  "created_published_date": "Documentation compiled after 1933",
+  "description": [
+    "Measured Drawing(s): 6"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-08-24T14:56:55.595Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/wi0305/#hh-7"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-7",
+    "habshaer-group-7"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/wi0305/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001_150px.jpg#h=150&w=100",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001r.jpg#h=640&w=426",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001v.jpg#h=1024&w=682"
+  ],
+  "index": 5,
+  "item": {
+    "call_number": "HABS WIS,2-LPOIT.V,1A-",
+    "contributor_names": [
+      "Simpson, Leonard H, delineator ",
+      "Spoden, Patrick J, delineator ",
+      "Lewis, Gillian, delineator "
+    ],
+    "control_number": "wi0305",
+    "created": "2016-04-18T09:09:07Z",
+    "created_published": "Documentation compiled after 1933",
+    "created_published_date": "Documentation compiled after 1933",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+        "role": "creator",
+        "title": "Historic American Buildings Survey"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Simpson%2C%20Leonard%20H&co=hh",
+        "role": "delineator",
+        "title": "Simpson, Leonard H"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Spoden%2C%20Patrick%20J&co=hh",
+        "role": "delineator",
+        "title": "Spoden, Patrick J"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lewis%2C%20Gillian&co=hh",
+        "role": "delineator",
+        "title": "Lewis, Gillian"
+      }
+    ],
+    "display_offsite": true,
+    "id": "wi0305",
+    "link": "https://www.loc.gov/pictures/item/wi0305/",
+    "medium_brief": "Measured Drawing(s): 6",
+    "mediums": [
+      "Measured Drawing(s): 6 "
+    ],
+    "modified": "2023-08-02T16:17:12Z",
+    "notes": [
+      "Unprocessed Field note material exists for this structure: N47 ",
+      "Survey number: HABS WI-324-A "
+    ],
+    "other_title": [
+      "Apostle Islands National Lakeshore"
+    ],
+    "part_of": "Historic American Buildings Survey (Library of Congress)",
+    "part_of_group": "Survey Number wi0305",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Wisconsin--Ashland%20County--La%20Pointe&co=hh",
+        "longitude": "",
+        "title": "Wisconsin -- Ashland County -- La Pointe"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/wi/wi0300/wi0305/data/wi0305data.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Drawing: wi0305&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001_150px.jpg?q=wi0305.sheet.00001a&c=6&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001r.jpg?q=wi0305.sheet.00001a&c=6&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-18T09:09:00Z",
+    "subject_headings": [
+      "towers",
+      "navigation",
+      "maritime",
+      "Wisconsin -- Ashland County -- La Pointe"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001_150px.jpg?q=wi0305.sheet.00001a&c=6&st=gallery",
+    "title": "Devil's Island Light Station, Tower, La Pointe, Ashland County, WI"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "link": "https://www.loc.gov/pictures/item/wi0305/",
+  "location": [
+    "ashland county",
+    "wisconsin",
+    "la pointe"
+  ],
+  "locations": [
+    {
+      "ashland county": "https://www.loc.gov/search/?fa=location:ashland+county&fo=json"
+    },
+    {
+      "la pointe": "https://www.loc.gov/search/?fa=location:la+pointe&fo=json"
+    },
+    {
+      "wisconsin": "https://www.loc.gov/search/?fa=location:wisconsin&fo=json"
+    }
+  ],
+  "medium": [
+    "Measured Drawing(s): 6 "
+  ],
+  "medium_brief": "Measured Drawing(s): 6",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-08-02T16:17:12Z",
+  "notes": [
+    "Unprocessed Field note material exists for this structure: N47 ",
+    "Survey number: HABS WI-324-A "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number wi0305",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Wisconsin--Ashland%20County--La%20Pointe&co=hh",
+      "longitude": "",
+      "title": "Wisconsin -- Ashland County -- La Pointe"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=wi0305&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/wi/wi0300/wi0305/data/wi0305data.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=Drawing: wi0305&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Drawings from Survey HABS WI-324-A ",
+      "files": 6,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.wi0305.sheet"
+    },
+    {
+      "caption": "Data Pages from Survey HABS WI-324-A ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 37.635475,
+  "shard": "00",
+  "shelf_id": "HABS WIS,2-LPOIT.V,1A-",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Buildings Survey (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "towers",
+    "navigation",
+    "maritime"
+  ],
+  "subject_headings": [
+    "towers",
+    "navigation",
+    "maritime",
+    "Wisconsin -- Ashland County -- La Pointe"
+  ],
+  "subjects": [
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "towers": "https://www.loc.gov/search/?fa=subject:towers&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wi/wi0300/wi0305/sheet/00001_150px.jpg?q=wi0305.sheet.00001a&c=6&st=gallery",
+  "timestamp": "2023-08-24T15:08:37.807Z",
+  "title": "Devil's Island Light Station, Tower, La Pointe, Ashland County, WI",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/wi0305/"
+}

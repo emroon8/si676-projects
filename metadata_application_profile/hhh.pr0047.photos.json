@@ -1,0 +1,470 @@
+{
+  "_version_": 1775048779858182144,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/pr0047/",
+    "http://www.loc.gov/item/pr0047/",
+    "http://www.loc.gov/pictures/item/pr0047/",
+    "https://www.loc.gov/pictures/collection/hh/item/pr0047/",
+    "http://www.loc.gov/pictures/collection/hh/item/pr0047/",
+    "https://cdn.loc.gov/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047data.pdf",
+    "https://cdn.loc.gov/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047cap.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=photograph: pr0047&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://stage.loc.gov/pictures/search/?q=photograph: pr0047&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.pr0047data/",
+    "http://www.loc.gov/resource/hhh.pr0047cap/",
+    "http://www.loc.gov/resource/hhh.pr0047.photos/",
+    "http://www.loc.gov/resource/hhh.pr0047.photos",
+    "http://www.loc.gov/resource/hhh.pr0047.color.571277c",
+    "http://www.loc.gov/resource/hhh.pr0047.color.571278c",
+    "http://www.loc.gov/resource/hhh.pr0047.color.571279c",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143437p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143438p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143439p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143440p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143441p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143442p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143443p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143444p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143445p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143446p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143447p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143448p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143449p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143450p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143451p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143452p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143453p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143454p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143455p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143456p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143457p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143458p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143459p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143460p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143461p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143462p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143463p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143464p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143465p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143466p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143467p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143468p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143469p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143470p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143471p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143472p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143473p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143474p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143475p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143476p",
+    "http://www.loc.gov/resource/hhh.pr0047.photos.143477p"
+  ],
+  "call_number": "HAER PR,58-IMON,1-",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Engineering Record, creator",
+    "U.S. Department of Commerce",
+    "U.S. Coast Guard",
+    "Central Lighthouse Commission",
+    "Sautter, Lemonnier, & Cie",
+    "Cary, Brian, transmitter",
+    "Murphy, Kevin, transmitter",
+    "Boucher, Jack E, photographer",
+    "Nistal-Moret, Benjamin, historian"
+  ],
+  "contributors": [
+    {
+      "boucher, jack e": "https://www.loc.gov/search/?fa=contributor:boucher,+jack+e&fo=json"
+    },
+    {
+      "cary, brian": "https://www.loc.gov/search/?fa=contributor:cary,+brian&fo=json"
+    },
+    {
+      "central lighthouse commission": "https://www.loc.gov/search/?fa=contributor:central+lighthouse+commission&fo=json"
+    },
+    {
+      "historic american engineering record": "https://www.loc.gov/search/?fa=contributor:historic+american+engineering+record&fo=json"
+    },
+    {
+      "murphy, kevin": "https://www.loc.gov/search/?fa=contributor:murphy,+kevin&fo=json"
+    },
+    {
+      "nistal-moret, benjamin": "https://www.loc.gov/search/?fa=contributor:nistal-moret,+benjamin&fo=json"
+    },
+    {
+      "sautter, lemonnier, & cie": "https://www.loc.gov/search/?fa=contributor:sautter,+lemonnier,+%26+cie&fo=json"
+    },
+    {
+      "u.s. coast guard": "https://www.loc.gov/search/?fa=contributor:u.s.+coast+guard&fo=json"
+    },
+    {
+      "u.s. department of commerce": "https://www.loc.gov/search/?fa=contributor:u.s.+department+of+commerce&fo=json"
+    }
+  ],
+  "control_number": "pr0047",
+  "created": "2021-12-07T20:36:57Z",
+  "created_published": [
+    "Documentation compiled after 1968"
+  ],
+  "created_published_date": "Documentation compiled after 1968",
+  "description": [
+    "Photo(s): 41 | Color Transparencies: 3 | Data Page(s): 5 | Photo Caption Page(s): 3"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-08-23T18:53:10.979Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/pr0047/#hh-4"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-4",
+    "habshaer-group-4"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/pr0047/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277c_150px.jpg#h=150&w=109",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277cr.jpg#h=640&w=464",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277cv.jpg#h=1024&w=743"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "HAER PR,58-IMON,1-",
+    "contributor_names": [
+      "U.S. Department of Commerce,  ",
+      "U.S. Coast Guard,  ",
+      "Central Lighthouse Commission,  ",
+      "Sautter, Lemonnier, & Cie,  ",
+      "Cary, Brian, transmitter ",
+      "Murphy, Kevin, transmitter ",
+      "Boucher, Jack E, photographer ",
+      "Nistal-Moret, Benjamin, historian "
+    ],
+    "control_number": "pr0047",
+    "created": "2021-12-07T20:36:57Z",
+    "created_published": "Documentation compiled after 1968",
+    "created_published_date": "Documentation compiled after 1968",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Engineering%20Record&co=hh",
+        "role": "creator",
+        "title": "Historic American Engineering Record"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Department%20of%20Commerce&co=hh",
+        "role": "",
+        "title": "U.S. Department of Commerce"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Coast%20Guard&co=hh",
+        "role": "",
+        "title": "U.S. Coast Guard"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Central%20Lighthouse%20Commission&co=hh",
+        "role": "",
+        "title": "Central Lighthouse Commission"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Sautter%2C%20Lemonnier%2C%20%26%20Cie&co=hh",
+        "role": "",
+        "title": "Sautter, Lemonnier, & Cie"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Cary%2C%20Brian&co=hh",
+        "role": "transmitter",
+        "title": "Cary, Brian"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Murphy%2C%20Kevin&co=hh",
+        "role": "transmitter",
+        "title": "Murphy, Kevin"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Boucher%2C%20Jack%20E&co=hh",
+        "role": "photographer",
+        "title": "Boucher, Jack E"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Nistal-Moret%2C%20Benjamin&co=hh",
+        "role": "historian",
+        "title": "Nistal-Moret, Benjamin"
+      }
+    ],
+    "display_offsite": true,
+    "id": "pr0047",
+    "latitude / longitude": "18.08829,-67.84671",
+    "link": "https://www.loc.gov/pictures/item/pr0047/",
+    "medium_brief": "Photo(s): 41, Color Transparencies: 3, Data Page(s): 5, Photo Caption Page(s): 3",
+    "mediums": [
+      "Photo(s): 41 ",
+      "Color Transparencies: 3 ",
+      "Data Page(s): 5 ",
+      "Photo Caption Page(s): 3 "
+    ],
+    "modified": "2023-08-02T17:35:41Z",
+    "notes": [
+      "Significance: Mona Island Light is the only existing lighthouse for which two entirely different plans were drawn between 1885-1886.  The first plan called for a 2nd class light, 22 miles range light beam, 3 keepers, and a structure (37.7 x 24 mts) with 25 rooms.  It was to be built around a central courtyard.  The octagonal tower (5.5 mts. in diameter) was 16 mts. high excluding the 7 mt. high lantern.  The walls generally measured 1 mt. thick.  According to the evidence this massive structure was under study in 1885 to be located at the present site. ",
+      "Survey number: HAER PR-24 ",
+      "Building/structure dates: 1888-1894 Initial Construction ",
+      "Building/structure dates: 1938 Subsequent Work ",
+      "Building/structure dates: 1973 Subsequent Work ",
+      "Building/structure dates: 1976 Subsequent Work "
+    ],
+    "other_title": [
+      "Faro de la Isla de la Mona"
+    ],
+    "part_of": "Historic American Engineering Record (Library of Congress)",
+    "part_of_group": "Survey Number pr0047",
+    "place": [
+      {
+        "latitude": "18.08829",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20Rico--Cabo%20Rojo%20Municipio--Cabo%20Rojo&co=hh",
+        "longitude": "-67.84671",
+        "title": "Puerto Rico--Cabo Rojo Municipio--Cabo Rojo"
+      },
+      {
+        "latitude": "18.08829",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20rico--Mayaguez--Isla%20De%20Mona&co=hh",
+        "longitude": "-67.84671",
+        "title": "Puerto rico--Mayaguez--Isla De Mona"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047cap.pdf",
+      "https://stage.loc.gov/pictures/search/?q=Photograph: pr0047&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277c_150px.jpg?q=pr0047.color.571277c&c=44&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277cr.jpg?q=pr0047.color.571277c&c=44&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2021-12-07T20:36:00Z",
+    "subject_headings": [
+      "lighthouses",
+      "metal buildings",
+      "navigation",
+      "transportation",
+      "maritime",
+      "Puerto Rico--Cabo Rojo Municipio--Cabo Rojo"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277c_150px.jpg?q=pr0047.color.571277c&c=44&st=gallery",
+    "title": "Isla de Mona Light, Mona Island, Cabo Rojo, Cabo Rojo Municipio, PR"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "latitude / longitude": "18.08829,-67.84671",
+  "latlong": [
+    18.08829,
+    -67.84671
+  ],
+  "link": "https://www.loc.gov/pictures/item/pr0047/",
+  "location": [
+    "isla de mona",
+    "cabo rojo municipio",
+    "mayaguez",
+    "cabo rojo",
+    "puerto rico"
+  ],
+  "location_str": "",
+  "locations": [
+    {
+      "cabo rojo": "https://www.loc.gov/search/?fa=location:cabo+rojo&fo=json"
+    },
+    {
+      "cabo rojo municipio": "https://www.loc.gov/search/?fa=location:cabo+rojo+municipio&fo=json"
+    },
+    {
+      "isla de mona": "https://www.loc.gov/search/?fa=location:isla+de+mona&fo=json"
+    },
+    {
+      "mayaguez": "https://www.loc.gov/search/?fa=location:mayaguez&fo=json"
+    },
+    {
+      "puerto rico": "https://www.loc.gov/search/?fa=location:puerto+rico&fo=json"
+    }
+  ],
+  "locations_str": [
+    null
+  ],
+  "lonlat": [
+    -67.84671,
+    18.08829
+  ],
+  "medium": [
+    "Photo(s): 41 ",
+    "Color Transparencies: 3 ",
+    "Data Page(s): 5 ",
+    "Photo Caption Page(s): 3 "
+  ],
+  "medium_brief": "Photo(s): 41, Color Transparencies: 3, Data Page(s): 5, Photo Caption Page(s): 3",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-08-02T17:35:41Z",
+  "notes": [
+    "Significance: Mona Island Light is the only existing lighthouse for which two entirely different plans were drawn between 1885-1886.  The first plan called for a 2nd class light, 22 miles range light beam, 3 keepers, and a structure (37.7 x 24 mts) with 25 rooms.  It was to be built around a central courtyard.  The octagonal tower (5.5 mts. in diameter) was 16 mts. high excluding the 7 mt. high lantern.  The walls generally measured 1 mt. thick.  According to the evidence this massive structure was under study in 1885 to be located at the present site. ",
+    "Survey number: HAER PR-24 ",
+    "Building/structure dates: 1888-1894 Initial Construction ",
+    "Building/structure dates: 1938 Subsequent Work ",
+    "Building/structure dates: 1973 Subsequent Work ",
+    "Building/structure dates: 1976 Subsequent Work "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number pr0047",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "18.08829",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20Rico--Cabo%20Rojo%20Municipio--Cabo%20Rojo&co=hh",
+      "longitude": "-67.84671",
+      "title": "Puerto Rico--Cabo Rojo Municipio--Cabo Rojo"
+    },
+    {
+      "latitude": "18.08829",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20rico--Mayaguez--Isla%20De%20Mona&co=hh",
+      "longitude": "-67.84671",
+      "title": "Puerto rico--Mayaguez--Isla De Mona"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=pr0047&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047data.pdf",
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/pr/pr0000/pr0047/data/pr0047cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=Photograph: pr0047&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Photos from Survey HAER PR-24 ",
+      "files": 44,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277c_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.pr0047.photos"
+    },
+    {
+      "caption": "Data Pages from Survey HAER PR-24 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    },
+    {
+      "caption": "Photo Captions from Survey HAER PR-24 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 37.635475,
+  "shard": "00",
+  "shelf_id": "HAER PR,58-IMON,1-",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Engineering Record (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "lighthouses",
+    "transportation",
+    "navigation",
+    "metal buildings",
+    "maritime"
+  ],
+  "subject_headings": [
+    "lighthouses",
+    "metal buildings",
+    "navigation",
+    "transportation",
+    "maritime",
+    "Puerto Rico--Cabo Rojo Municipio--Cabo Rojo"
+  ],
+  "subjects": [
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "metal buildings": "https://www.loc.gov/search/?fa=subject:metal+buildings&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "transportation": "https://www.loc.gov/search/?fa=subject:transportation&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pr/pr0000/pr0047/color/571277c_150px.jpg?q=pr0047.color.571277c&c=44&st=gallery",
+  "timestamp": "2023-08-23T19:20:31.268Z",
+  "title": "Isla de Mona Light, Mona Island, Cabo Rojo, Cabo Rojo Municipio, PR",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/pr0047/"
+}

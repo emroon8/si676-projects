@@ -1,0 +1,474 @@
+{
+  "_version_": 1782476280951734272,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/nc0610/",
+    "http://www.loc.gov/item/nc0610/",
+    "http://www.loc.gov/pictures/item/nc0610/",
+    "https://www.loc.gov/pictures/collection/hh/item/nc0610/",
+    "http://www.loc.gov/pictures/collection/hh/item/nc0610/",
+    "https://cdn.loc.gov/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610data.pdf",
+    "https://cdn.loc.gov/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610cap.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=photograph: nc0610&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://stage.loc.gov/pictures/search/?q=photograph: nc0610&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "https://stage.loc.gov/pictures/search/?q=drawing: nc0610&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://stage.loc.gov/pictures/search/?q=drawing: nc0610&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.nc0610data/",
+    "http://www.loc.gov/resource/hhh.nc0610cap/",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet/",
+    "http://www.loc.gov/resource/hhh.nc0610.photos/",
+    "http://www.loc.gov/resource/hhh.nc0610.photos",
+    "http://www.loc.gov/resource/hhh.nc0610.color.582387c",
+    "http://www.loc.gov/resource/hhh.nc0610.color.582388c",
+    "http://www.loc.gov/resource/hhh.nc0610.color.582389c",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391618p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391619p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391620p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391621p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391622p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391623p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391624p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391625p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391626p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391627p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391628p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391629p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391630p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391631p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391632p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391633p",
+    "http://www.loc.gov/resource/hhh.nc0610.photos.391634p",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet.00001a",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet.00002a",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet.00003a",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet.00004a",
+    "http://www.loc.gov/resource/hhh.nc0610.sheet.00005a"
+  ],
+  "call_number": "HABS NC-203-A",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Buildings Survey, creator",
+    "Whiting, William Henry Chase",
+    "U.S. Army Corps of Engineers",
+    "U.S. Lighthouse Board",
+    "U.S. Coast Guard",
+    "Schara, Mark, project manager",
+    "Davidson, Paul, field team",
+    "Doddington, L. Naomi, field team",
+    "Pierce, Ryan, field team",
+    "Ortiz, Jarob J., photographer",
+    "Rankin, Ellen, historian",
+    "McPartland, Mary, transmitter"
+  ],
+  "contributors": [
+    {
+      "davidson, paul": "https://www.loc.gov/search/?fa=contributor:davidson,+paul&fo=json"
+    },
+    {
+      "doddington, l. naomi": "https://www.loc.gov/search/?fa=contributor:doddington,+l.+naomi&fo=json"
+    },
+    {
+      "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+    },
+    {
+      "mcpartland, mary": "https://www.loc.gov/search/?fa=contributor:mcpartland,+mary&fo=json"
+    },
+    {
+      "ortiz, jarob j.": "https://www.loc.gov/search/?fa=contributor:ortiz,+jarob+j.&fo=json"
+    },
+    {
+      "pierce, ryan": "https://www.loc.gov/search/?fa=contributor:pierce,+ryan&fo=json"
+    },
+    {
+      "rankin, ellen": "https://www.loc.gov/search/?fa=contributor:rankin,+ellen&fo=json"
+    },
+    {
+      "schara, mark": "https://www.loc.gov/search/?fa=contributor:schara,+mark&fo=json"
+    },
+    {
+      "u.s. army corps of engineers": "https://www.loc.gov/search/?fa=contributor:u.s.+army+corps+of+engineers&fo=json"
+    },
+    {
+      "u.s. coast guard": "https://www.loc.gov/search/?fa=contributor:u.s.+coast+guard&fo=json"
+    },
+    {
+      "u.s. lighthouse board": "https://www.loc.gov/search/?fa=contributor:u.s.+lighthouse+board&fo=json"
+    },
+    {
+      "whiting, william henry chase": "https://www.loc.gov/search/?fa=contributor:whiting,+william+henry+chase&fo=json"
+    }
+  ],
+  "control_number": "nc0610",
+  "created": "2023-10-20T21:46:57Z",
+  "created_published": [
+    "Documentation compiled after 1933"
+  ],
+  "created_published_date": "Documentation compiled after 1933",
+  "description": [
+    "Photo(s): 17 | Color Transparencies: 3 | Measured Drawing(s): 5 | Data Page(s): 24 | Photo Caption Page(s): 2"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-11-13T18:49:06.101Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/nc0610/#hh-4"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-4",
+    "habshaer-group-4"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/nc0610/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387c_150px.jpg#h=120&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387cr.jpg#h=510&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387cv.jpg#h=816&w=1024"
+  ],
+  "index": 4,
+  "item": {
+    "call_number": "HABS NC-203-A",
+    "contributor_names": [
+      "Whiting, William Henry Chase,  ",
+      "U.S. Army Corps of Engineers,  ",
+      "U.S. Lighthouse Board,  ",
+      "U.S. Coast Guard,  ",
+      "Schara, Mark, project manager ",
+      "Davidson, Paul, field team ",
+      "Doddington, L. Naomi, field team ",
+      "Pierce, Ryan, field team ",
+      "Ortiz, Jarob J., photographer ",
+      "Rankin, Ellen, historian ",
+      "McPartland, Mary, transmitter "
+    ],
+    "control_number": "nc0610",
+    "created": "2023-10-20T21:46:57Z",
+    "created_published": "Documentation compiled after 1933",
+    "created_published_date": "Documentation compiled after 1933",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+        "role": "creator",
+        "title": "Historic American Buildings Survey"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Whiting%2C%20William%20Henry%20Chase&co=hh",
+        "role": "",
+        "title": "Whiting, William Henry Chase"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Army%20Corps%20of%20Engineers&co=hh",
+        "role": "",
+        "title": "U.S. Army Corps of Engineers"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Lighthouse%20Board&co=hh",
+        "role": "",
+        "title": "U.S. Lighthouse Board"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Coast%20Guard&co=hh",
+        "role": "",
+        "title": "U.S. Coast Guard"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Schara%2C%20Mark&co=hh",
+        "role": "project manager",
+        "title": "Schara, Mark"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Davidson%2C%20Paul&co=hh",
+        "role": "field team",
+        "title": "Davidson, Paul"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Doddington%2C%20L.%20Naomi&co=hh",
+        "role": "field team",
+        "title": "Doddington, L. Naomi"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Pierce%2C%20Ryan&co=hh",
+        "role": "field team",
+        "title": "Pierce, Ryan"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Ortiz%2C%20Jarob%20J.&co=hh",
+        "role": "photographer",
+        "title": "Ortiz, Jarob J."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Rankin%2C%20Ellen&co=hh",
+        "role": "historian",
+        "title": "Rankin, Ellen"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=McPartland%2C%20Mary&co=hh",
+        "role": "transmitter",
+        "title": "McPartland, Mary"
+      }
+    ],
+    "display_offsite": true,
+    "id": "nc0610",
+    "latitude / longitude": "34.622725,-76.524548",
+    "link": "https://www.loc.gov/pictures/item/nc0610/",
+    "medium_brief": "Photo(s): 17, Color Transparencies: 3, Measured Drawing(s): 5, Data Page(s): 24, Photo Caption Page(s): 2",
+    "mediums": [
+      "Photo(s): 17 ",
+      "Color Transparencies: 3 ",
+      "Measured Drawing(s): 5 ",
+      "Data Page(s): 24 ",
+      "Photo Caption Page(s): 2 "
+    ],
+    "modified": "2023-10-21T04:36:14Z",
+    "notes": [
+      "Significance: Constructed between 1857 and 1859, the Cape Lookout Lighthouse is significant as the prototype of all lighthouses to be erected on the Outer Banks of North Carolina. The Cape Lookout Lighthouse was the first of the great lighthouses erected along the North Carolina coast by the U. S. government during the mid-nineteenth century replacement of earlier, smaller lighthouses. The lighthouse was given a distinctive black-and-white-diamond pattern in 1873. It is a contributing resource to the Cape Lookout Light Station, which was listed in the National Register of Historic Places in 1972 as an important physical and historical maritime feature of the nineteenth century development of the Outer Banks.\n\nThe lighthouse is also a contributing resource to the Cape Lookout Village Historic District, which was listed in the National Register of Historic Places in 2000. The district, which contains twenty-one principal resources, is anchored by the Cape Lookout Lighthouse at the north end and by the former U. S. Coast Guard Station to the south. Sixteen of these resources   the lighthouse, the life-saving buildings and structures, the circulation network, and the historic landscape   contribute to the district's significance as a unique Outer Banks community that flourished as a fishing village and life-saving station from the 1870s to about 1920, and then endured as a resort for hardy vacationers until becoming part of the Cape Lookout National Seashore in 1966. ",
+      "Unprocessed Field note material exists for this structure: N2293 ",
+      "Survey number: HABS NC-203-A ",
+      "Building/structure dates: 1857-1859 Initial Construction ",
+      "Building/structure dates: 1867 Subsequent Work ",
+      "Building/structure dates: 1950 Subsequent Work ",
+      "Building/structure dates: 1976 Subsequent Work ",
+      "National Register of Historic Places NRIS Number: 72000097, 00000692 "
+    ],
+    "other_title": [
+      "Cape Lookout National Seashore"
+    ],
+    "part_of": "Historic American Buildings Survey (Library of Congress)",
+    "part_of_group": "Survey Number nc0610",
+    "place": [
+      {
+        "latitude": "34.622725",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=North%20Carolina--Carteret%20County--Cape%20Lookout&co=hh",
+        "longitude": "-76.524548",
+        "title": "North Carolina--Carteret County--Cape Lookout"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610cap.pdf",
+      "https://stage.loc.gov/pictures/search/?q=Photograph: nc0610&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+      "https://stage.loc.gov/pictures/search/?q=Drawing: nc0610&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387c_150px.jpg?q=nc0610.color.582387c&c=20&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387cr.jpg?q=nc0610.color.582387c&c=20&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2023-10-20T21:46:00Z",
+    "subject_headings": [
+      "lighthouses",
+      "navigation",
+      "aids to navigation",
+      "war (Civil War)",
+      "maritime",
+      "North Carolina--Carteret County--Cape Lookout"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387c_150px.jpg?q=nc0610.color.582387c&c=20&st=gallery",
+    "title": "Cape Lookout Light Station, Lighthouse, Cape Lookout, Carteret County, NC"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "latitude / longitude": "34.622725,-76.524548",
+  "latlong": [
+    34.622725,
+    -76.524548
+  ],
+  "link": "https://www.loc.gov/pictures/item/nc0610/",
+  "location": [
+    "carteret county",
+    "cape lookout",
+    "north carolina"
+  ],
+  "location_str": "",
+  "locations": [
+    {
+      "cape lookout": "https://www.loc.gov/search/?fa=location:cape+lookout&fo=json"
+    },
+    {
+      "carteret county": "https://www.loc.gov/search/?fa=location:carteret+county&fo=json"
+    },
+    {
+      "north carolina": "https://www.loc.gov/search/?fa=location:north+carolina&fo=json"
+    }
+  ],
+  "locations_str": [
+    null
+  ],
+  "lonlat": [
+    -76.524548,
+    34.622725
+  ],
+  "medium": [
+    "Photo(s): 17 ",
+    "Color Transparencies: 3 ",
+    "Measured Drawing(s): 5 ",
+    "Data Page(s): 24 ",
+    "Photo Caption Page(s): 2 "
+  ],
+  "medium_brief": "Photo(s): 17, Color Transparencies: 3, Measured Drawing(s): 5, Data Page(s): 24, Photo Caption Page(s): 2",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-10-21T04:36:14Z",
+  "notes": [
+    "Significance: Constructed between 1857 and 1859, the Cape Lookout Lighthouse is significant as the prototype of all lighthouses to be erected on the Outer Banks of North Carolina. The Cape Lookout Lighthouse was the first of the great lighthouses erected along the North Carolina coast by the U. S. government during the mid-nineteenth century replacement of earlier, smaller lighthouses. The lighthouse was given a distinctive black-and-white-diamond pattern in 1873. It is a contributing resource to the Cape Lookout Light Station, which was listed in the National Register of Historic Places in 1972 as an important physical and historical maritime feature of the nineteenth century development of the Outer Banks.\n\nThe lighthouse is also a contributing resource to the Cape Lookout Village Historic District, which was listed in the National Register of Historic Places in 2000. The district, which contains twenty-one principal resources, is anchored by the Cape Lookout Lighthouse at the north end and by the former U. S. Coast Guard Station to the south. Sixteen of these resources   the lighthouse, the life-saving buildings and structures, the circulation network, and the historic landscape   contribute to the district's significance as a unique Outer Banks community that flourished as a fishing village and life-saving station from the 1870s to about 1920, and then endured as a resort for hardy vacationers until becoming part of the Cape Lookout National Seashore in 1966. ",
+    "Unprocessed Field note material exists for this structure: N2293 ",
+    "Survey number: HABS NC-203-A ",
+    "Building/structure dates: 1857-1859 Initial Construction ",
+    "Building/structure dates: 1867 Subsequent Work ",
+    "Building/structure dates: 1950 Subsequent Work ",
+    "Building/structure dates: 1976 Subsequent Work ",
+    "National Register of Historic Places NRIS Number: 72000097, 00000692 "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number nc0610",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "34.622725",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=North%20Carolina--Carteret%20County--Cape%20Lookout&co=hh",
+      "longitude": "-76.524548",
+      "title": "North Carolina--Carteret County--Cape Lookout"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=nc0610&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610data.pdf",
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0600/nc0610/data/nc0610cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=Photograph: nc0610&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+    "https://stage.loc.gov/pictures/search/?q=Drawing: nc0610&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS NC-203-A ",
+      "files": 20,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387c_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.nc0610.photos"
+    },
+    {
+      "caption": "Drawings from Survey HABS NC-203-A ",
+      "files": 5,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/sheet/00001_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.nc0610.sheet"
+    },
+    {
+      "caption": "Data Pages from Survey HABS NC-203-A ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    },
+    {
+      "caption": "Photo Captions from Survey HABS NC-203-A ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 36.865715,
+  "shard": "00",
+  "shelf_id": "HABS NC-203-A",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Buildings Survey (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "lighthouses",
+    "aids to navigation",
+    "navigation",
+    "war (civil war)",
+    "maritime"
+  ],
+  "subject_headings": [
+    "lighthouses",
+    "navigation",
+    "aids to navigation",
+    "war (Civil War)",
+    "maritime",
+    "North Carolina--Carteret County--Cape Lookout"
+  ],
+  "subjects": [
+    {
+      "aids to navigation": "https://www.loc.gov/search/?fa=subject:aids+to+navigation&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "war (civil war)": "https://www.loc.gov/search/?fa=subject:war+%28civil+war%29&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0600/nc0610/color/582387c_150px.jpg?q=nc0610.color.582387c&c=20&st=gallery",
+  "timestamp": "2023-11-13T18:57:27.276Z",
+  "title": "Cape Lookout Light Station, Lighthouse, Cape Lookout, Carteret County, NC",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/nc0610/"
+}

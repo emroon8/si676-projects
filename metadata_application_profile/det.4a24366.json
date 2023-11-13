@@ -1,0 +1,416 @@
+{
+  "_version_": 1731068395444502528,
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/pictures/collection/det/item/2016812260/",
+    "http://www.loc.gov/item/2016812260/",
+    "http://www.loc.gov/pictures/item/2016812260/",
+    "https://hdl.loc.gov/loc.pnp/det.4a24366",
+    "http://www.loc.gov/resource/det.4a24366/",
+    "http://lccn.loc.gov/2016812260"
+  ],
+  "call_number": "LC-D4-72733 [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Detroit Publishing Co., copyright claimant",
+    "Detroit Publishing Co., publisher"
+  ],
+  "contributors": [
+    {
+      "detroit publishing co.": "https://www.loc.gov/search/?fa=contributor:detroit+publishing+co.&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2017-11-21T05:30:18Z",
+  "created_published": [
+    "c[between 1910 and 1920]"
+  ],
+  "created_published_date": "c[between 1910 and 1920]",
+  "date": "1910-01-01",
+  "dates": [
+    {
+      "1910": "https://www.loc.gov/search/?dates=1910/1910&fa=online-format:image&fo=json"
+    }
+  ],
+  "description": [
+    "1 negative : glass ; 8 x 10 in."
+  ],
+  "digital_id": [
+    "det 4a24366 //hdl.loc.gov/loc.pnp/det.4a24366"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-09-01T22:30:23.311Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/det/item/2016812260/#det",
+    "http://lccn.loc.gov/2016812260#catalog-split-12"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Dry plate negatives."
+  ],
+  "genre": [
+    "Dry plate negatives"
+  ],
+  "group": [
+    "det",
+    "catalog-split-12",
+    "catalog",
+    "detroit-publishing-company",
+    "main-catalog-split-12",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2016812260/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366_150px.jpg#h=121&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366t.gif#h=121&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366r.jpg#h=518&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366v.jpg#h=829&w=1024"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LC-D4-72733 [P&P]",
+    "contributor_names": [
+      "Detroit Publishing Co., copyright claimant ",
+      "Detroit Publishing Co., publisher "
+    ],
+    "contributors": [
+      "Detroit Publishing Co., copyright claimant, publisher."
+    ],
+    "control_number": "2016812260",
+    "created": "2017-11-21T05:30:18Z",
+    "created_published": "c[between 1910 and 1920]",
+    "created_published_date": "c[between 1910 and 1920]",
+    "creators": [
+      {
+        "link": "//www.loc.gov/pictures/related/?fi=name&q=Detroit%20Publishing%20Co.&co=det",
+        "role": "copyright claimant",
+        "title": "Detroit Publishing Co."
+      },
+      {
+        "link": "//www.loc.gov/pictures/related/?fi=name&q=Detroit%20Publishing%20Co.&co=det",
+        "role": "publisher",
+        "title": "Detroit Publishing Co."
+      }
+    ],
+    "date": "c[between 1910 and 1920]",
+    "digital_id": [
+      "det 4a24366 //hdl.loc.gov/loc.pnp/det.4a24366"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "//www.loc.gov/pictures/related/?fi=format&q=Dry%20plate%20negatives.&co=det",
+        "title": "Dry plate negatives."
+      }
+    ],
+    "genre": [
+      "Dry plate negatives"
+    ],
+    "id": "2016812260",
+    "language": [
+      "eng"
+    ],
+    "link": "//www.loc.gov/pictures/item/2016812260/",
+    "marc": "//www.loc.gov/pictures/item/2016812260/marc/",
+    "medium": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mediums": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "modified": "2017-11-21T05:30:18Z",
+    "notes": [
+      "\"Juniata\" on steamboat.",
+      "\"G 8734\" on negative.",
+      "Detroit Publishing Co. no. 072733.",
+      "Gift; State Historical Society of Colorado; 1949."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2016812260",
+      "https://www.loc.gov/item/det1994018220/PP"
+    ],
+    "other_control_numbers": [
+      "20119380",
+      "det1994018220/PP"
+    ],
+    "part_of": "Detroit Publishing Company photograph collection (Library of Congress)",
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Buffalo&co=det",
+        "longitude": "",
+        "title": "New York (State)--Buffalo"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-det-4a24366 (digital file from original)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/det.4a24366"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366r.jpg",
+    "sort_date": "1910",
+    "source_collection": [
+      "Detroit Publishing Company photograph collection (Library of Congress)"
+    ],
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-02T15:24:50Z",
+    "subject_headings": [
+      "Lighthouses.",
+      "Steamboats.",
+      "Harbors.",
+      "United States--New York (State)--Buffalo.",
+      "New York (State)--Buffalo"
+    ],
+    "subjects": [
+      "Lighthouses",
+      "Steamboats",
+      "Harbors",
+      "United States--New York (State)--Buffalo"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366_150px.jpg",
+    "title": "Harbor entrance and lights, Buffalo, N.Y."
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2016812260",
+  "link": "//www.loc.gov/pictures/item/2016812260/",
+  "location": [
+    "united states",
+    "new york",
+    "new york (state)",
+    "buffalo"
+  ],
+  "location_city": [
+    "buffalo"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "new york (state)"
+  ],
+  "locations": [
+    {
+      "buffalo": "https://www.loc.gov/search/?fa=location:buffalo&fo=json"
+    },
+    {
+      "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location:new+york+%28state%29&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+    }
+  ],
+  "locations_city": [
+    {
+      "buffalo": "https://www.loc.gov/search/?fa=location_city:buffalo&fo=json"
+    }
+  ],
+  "locations_country": [
+    {
+      "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+    }
+  ],
+  "locations_state": [
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location_state:new+york+%28state%29&fo=json"
+    }
+  ],
+  "marc": "//www.loc.gov/pictures/item/2016812260/marc/",
+  "medium": [
+    "1 negative : glass ; 8 x 10 in."
+  ],
+  "medium_brief": "1 negative :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2017-11-21T05:30:18Z",
+  "notes": [
+    "\"Juniata\" on steamboat.",
+    "\"G 8734\" on negative.",
+    "Detroit Publishing Co. no. 072733.",
+    "Gift; State Historical Society of Colorado; 1949."
+  ],
+  "number": [
+    "http://www.loc.gov/item/det1994018220/pp",
+    "http://www.loc.gov/item/2016812260",
+    "2016812260",
+    "2017-11-02t15:24:50",
+    "http://www.loc.gov/item/20119380"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/20119380",
+    "http://www.loc.gov/item/det1994018220/pp",
+    "http://www.loc.gov/item/2016812260"
+  ],
+  "number_lccn": [
+    "2016812260"
+  ],
+  "number_source_modified": [
+    "2017-11-02t15:24:50"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "20119380",
+    "det1994018220/PP"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2016812260/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2016812260/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2016812260/dc"
+    }
+  ],
+  "other_title": [],
+  "partof": [
+    {
+      "count": 25171,
+      "title": "detroit publishing company",
+      "url": "https://www.loc.gov/collections/detroit-publishing-company/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1487574,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "//www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Buffalo&co=det",
+      "longitude": "",
+      "title": "New York (State)--Buffalo"
+    }
+  ],
+  "related": {
+    "neighbors": "//www.loc.gov/pictures/related/?&co=det&pk=2016812260&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-det-4a24366 (digital file from original)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/det.4a24366"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366_150px.jpg",
+      "url": "https://www.loc.gov/resource/det.4a24366/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress believes that many of the papers in the Detroit Publishing Company collection are in the public domain or have no known copyright restrictions and are free to use and reuse. For example, all photos published in the U.S. more than 95 years ago are in the public domain. The Library has also obtained permission for the use of many other materials, and presents additional materials pursuant to fair use under United States copyright law. Researchers should watch for documents that may be copyrighted (for example, published in the United States less than 95 years ago, or unpublished and the author died less than 70 years ago).</p>\r\n<p> You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights.</p>\r\n<p>Credit Line: Library of Congress, Prints &amp; Photographs Division, Detroit Publishing Company Collection.<br>\r\nFor information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/102_det.html\">Detroit Publishing Company - Rights and Restrictions Information</a></p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.40206,
+  "shard": "00",
+  "shelf_id": "LC-D4-72733 [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1910",
+  "source_collection": "Detroit Publishing Company photograph collection (Library of Congress)",
+  "source_created": "1994-01-01T00:00:00Z",
+  "source_modified": "2017-11-02T15:24:50Z",
+  "subject": [
+    "lighthouses",
+    "dry plate negatives",
+    "united states",
+    "new york (state)",
+    "buffalo",
+    "harbors",
+    "steamboats"
+  ],
+  "subject_headings": [
+    "Lighthouses",
+    "Steamboats",
+    "Harbors",
+    "United States--New York (State)--Buffalo"
+  ],
+  "subjects": [
+    {
+      "buffalo": "https://www.loc.gov/search/?fa=subject:buffalo&fo=json"
+    },
+    {
+      "dry plate negatives": "https://www.loc.gov/search/?fa=subject:dry+plate+negatives&fo=json"
+    },
+    {
+      "harbors": "https://www.loc.gov/search/?fa=subject:harbors&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+    },
+    {
+      "steamboats": "https://www.loc.gov/search/?fa=subject:steamboats&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a24000/4a24300/4a24366_150px.jpg",
+  "timestamp": "2022-04-25T08:31:08.646Z",
+  "title": "Harbor entrance and lights, Buffalo, N.Y.",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2016812260/"
+}

@@ -1,0 +1,395 @@
+{
+  "_version_": 1775123173001396224,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/pa0452/",
+    "http://www.loc.gov/item/pa0452/",
+    "http://www.loc.gov/pictures/item/pa0452/",
+    "https://www.loc.gov/pictures/collection/hh/item/pa0452/",
+    "http://www.loc.gov/pictures/collection/hh/item/pa0452/",
+    "https://cdn.loc.gov/master/pnp/habshaer/pa/pa0400/pa0452/data/pa0452data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/pa/pa0400/pa0452/data/pa0452data.pdf",
+    "https://cdn.loc.gov/master/pnp/habshaer/pa/pa0400/pa0452/supp/pa0452supp.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/pa/pa0400/pa0452/supp/pa0452supp.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=photograph: pa0452&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov:8081/pictures/search/?q=photograph: pa0452&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "https://www.loc.gov:8081/pictures/search/?q=drawing: pa0452&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov:8081/pictures/search/?q=drawing: pa0452&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.pa0452data/",
+    "http://www.loc.gov/resource/hhh.pa0452supp/",
+    "http://www.loc.gov/resource/hhh.pa0452.sheet/",
+    "http://www.loc.gov/resource/hhh.pa0452.photos/",
+    "http://www.loc.gov/resource/hhh.pa0452.photos",
+    "http://www.loc.gov/resource/hhh.pa0452.photos.133910p",
+    "http://www.loc.gov/resource/hhh.pa0452.photos.133911p",
+    "http://www.loc.gov/resource/hhh.pa0452.photos.133912p",
+    "http://www.loc.gov/resource/hhh.pa0452.sheet",
+    "http://www.loc.gov/resource/hhh.pa0452.sheet.00000a",
+    "http://www.loc.gov/resource/hhh.pa0452.sheet.00001a",
+    "http://www.loc.gov/resource/hhh.pa0452.sheet.00002a"
+  ],
+  "call_number": "HABS PA,25-ERI,5-",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Buildings Survey, creator",
+    "L. Sauter & Son of Paris",
+    "Farrell, V, field team",
+    "Bulger, William J, photographer",
+    "Baxter, Annie Scott, historian",
+    "Donahue, Arthur, delineator",
+    "Hencke, Adolph, delineator",
+    "Scheppner, Kenneth, delineator"
+  ],
+  "contributors": [
+    {
+      "baxter, annie scott": "https://www.loc.gov/search/?fa=contributor:baxter,+annie+scott&fo=json"
+    },
+    {
+      "bulger, william j": "https://www.loc.gov/search/?fa=contributor:bulger,+william+j&fo=json"
+    },
+    {
+      "donahue, arthur": "https://www.loc.gov/search/?fa=contributor:donahue,+arthur&fo=json"
+    },
+    {
+      "farrell, v": "https://www.loc.gov/search/?fa=contributor:farrell,+v&fo=json"
+    },
+    {
+      "hencke, adolph": "https://www.loc.gov/search/?fa=contributor:hencke,+adolph&fo=json"
+    },
+    {
+      "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+    },
+    {
+      "l. sauter & son of paris": "https://www.loc.gov/search/?fa=contributor:l.+sauter+%26+son+of+paris&fo=json"
+    },
+    {
+      "scheppner, kenneth": "https://www.loc.gov/search/?fa=contributor:scheppner,+kenneth&fo=json"
+    }
+  ],
+  "control_number": "pa0452",
+  "created": "2016-04-16T12:15:17Z",
+  "created_published": [
+    "Documentation compiled after 1933"
+  ],
+  "created_published_date": "Documentation compiled after 1933",
+  "description": [
+    "Photo(s): 3 | Measured Drawing(s): 3 | Data Page(s): 5"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-08-24T15:00:01.603Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/pa0452/#hh-6"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-6",
+    "habshaer-group-6"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/pa0452/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910p_150px.jpg#h=150&w=107",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910pr.jpg#h=640&w=458",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910pv.jpg#h=1024&w=733"
+  ],
+  "index": 3,
+  "item": {
+    "call_number": "HABS PA,25-ERI,5-",
+    "contributor_names": [
+      "L. Sauter & Son of Paris,  ",
+      "Farrell, V, field team ",
+      "Bulger, William J, photographer ",
+      "Baxter, Annie Scott, historian ",
+      "Donahue, Arthur, delineator ",
+      "Hencke, Adolph, delineator ",
+      "Scheppner, Kenneth, delineator "
+    ],
+    "control_number": "pa0452",
+    "created": "2016-04-16T12:15:17Z",
+    "created_published": "Documentation compiled after 1933",
+    "created_published_date": "Documentation compiled after 1933",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+        "role": "creator",
+        "title": "Historic American Buildings Survey"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=L.%20Sauter%20%26%20Son%20of%20Paris&co=hh",
+        "role": "",
+        "title": "L. Sauter & Son of Paris"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Farrell%2C%20V&co=hh",
+        "role": "field team",
+        "title": "Farrell, V"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bulger%2C%20William%20J&co=hh",
+        "role": "photographer",
+        "title": "Bulger, William J"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Baxter%2C%20Annie%20Scott&co=hh",
+        "role": "historian",
+        "title": "Baxter, Annie Scott"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Donahue%2C%20Arthur&co=hh",
+        "role": "delineator",
+        "title": "Donahue, Arthur"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hencke%2C%20Adolph&co=hh",
+        "role": "delineator",
+        "title": "Hencke, Adolph"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Scheppner%2C%20Kenneth&co=hh",
+        "role": "delineator",
+        "title": "Scheppner, Kenneth"
+      }
+    ],
+    "display_offsite": true,
+    "id": "pa0452",
+    "link": "https://www.loc.gov/pictures/item/pa0452/",
+    "medium_brief": "Photo(s): 3, Measured Drawing(s): 3, Data Page(s): 5",
+    "mediums": [
+      "Photo(s): 3 ",
+      "Measured Drawing(s): 3 ",
+      "Data Page(s): 5 "
+    ],
+    "modified": "2023-08-02T14:04:19Z",
+    "notes": [
+      "Unprocessed Field note material exists for this structure: FN-48 ",
+      "Survey number: HABS PA-517 ",
+      "Building/structure dates: 1867 Initial Construction "
+    ],
+    "part_of": "Historic American Buildings Survey (Library of Congress)",
+    "part_of_group": "Survey Number pa0452",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Erie%20County--Erie&co=hh",
+        "longitude": "",
+        "title": "Pennsylvania -- Erie County -- Erie"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/pa/pa0400/pa0452/data/pa0452data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/pa/pa0400/pa0452/supp/pa0452supp.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Photograph: pa0452&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+      "https://www.loc.gov:8081/pictures/search/?q=Drawing: pa0452&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910p_150px.jpg?q=pa0452.photos.133910p&c=3&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910pr.jpg?q=pa0452.photos.133910p&c=3&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T12:15:00Z",
+    "subject_headings": [
+      "lighthouses",
+      "stone buildings (sandstone)",
+      "domestic life",
+      "navigation",
+      "Works Progress Administration",
+      "maritime",
+      "Pennsylvania -- Erie County -- Erie"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910p_150px.jpg?q=pa0452.photos.133910p&c=3&st=gallery",
+    "title": "Land Lighthouse, Front Street, Land Lighthouse Park, Erie, Erie County, PA"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "link": "https://www.loc.gov/pictures/item/pa0452/",
+  "location": [
+    "pennsylvania",
+    "erie",
+    "erie county"
+  ],
+  "locations": [
+    {
+      "erie": "https://www.loc.gov/search/?fa=location:erie&fo=json"
+    },
+    {
+      "erie county": "https://www.loc.gov/search/?fa=location:erie+county&fo=json"
+    },
+    {
+      "pennsylvania": "https://www.loc.gov/search/?fa=location:pennsylvania&fo=json"
+    }
+  ],
+  "medium": [
+    "Photo(s): 3 ",
+    "Measured Drawing(s): 3 ",
+    "Data Page(s): 5 "
+  ],
+  "medium_brief": "Photo(s): 3, Measured Drawing(s): 3, Data Page(s): 5",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-08-02T14:04:19Z",
+  "notes": [
+    "Unprocessed Field note material exists for this structure: FN-48 ",
+    "Survey number: HABS PA-517 ",
+    "Building/structure dates: 1867 Initial Construction "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number pa0452",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Erie%20County--Erie&co=hh",
+      "longitude": "",
+      "title": "Pennsylvania -- Erie County -- Erie"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=pa0452&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/pa/pa0400/pa0452/data/pa0452data.pdf",
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/pa/pa0400/pa0452/supp/pa0452supp.pdf",
+    "https://www.loc.gov:8081/pictures/search/?q=Photograph: pa0452&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+    "https://www.loc.gov:8081/pictures/search/?q=Drawing: pa0452&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS PA-517 ",
+      "files": 3,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910p_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.pa0452.photos"
+    },
+    {
+      "caption": "Drawings from Survey HABS PA-517 ",
+      "files": 3,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/sheet/00000_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.pa0452.sheet"
+    },
+    {
+      "caption": "Data Pages from Survey HABS PA-517 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    },
+    {
+      "caption": "pdf version of supplemental pages",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 37.635475,
+  "shard": "00",
+  "shelf_id": "HABS PA,25-ERI,5-",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Buildings Survey (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "lighthouses",
+    "maritime",
+    "works progress administration",
+    "domestic life",
+    "navigation",
+    "stone buildings (sandstone)"
+  ],
+  "subject_headings": [
+    "lighthouses",
+    "stone buildings (sandstone)",
+    "domestic life",
+    "navigation",
+    "Works Progress Administration",
+    "maritime",
+    "Pennsylvania -- Erie County -- Erie"
+  ],
+  "subjects": [
+    {
+      "domestic life": "https://www.loc.gov/search/?fa=subject:domestic+life&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "stone buildings (sandstone)": "https://www.loc.gov/search/?fa=subject:stone+buildings+%28sandstone%29&fo=json"
+    },
+    {
+      "works progress administration": "https://www.loc.gov/search/?fa=subject:works+progress+administration&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/pa/pa0400/pa0452/photos/133910p_150px.jpg?q=pa0452.photos.133910p&c=3&st=gallery",
+  "timestamp": "2023-08-24T15:02:58.252Z",
+  "title": "Land Lighthouse, Front Street, Land Lighthouse Park, Erie, Erie County, PA",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/pa0452/"
+}

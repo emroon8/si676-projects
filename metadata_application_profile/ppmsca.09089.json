@@ -1,0 +1,333 @@
+{
+  "_version_": 1731680627006111744,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2005692542/",
+    "http://www.loc.gov/item/2005692542/",
+    "http://www.loc.gov/pictures/item/2005692542/",
+    "https://www.loc.gov/pictures/collection/cph/item/2005692542/",
+    "http://www.loc.gov/pictures/collection/cph/item/2005692542/",
+    "http://www.loc.gov/resource/ppmsca.09089/",
+    "http://lccn.loc.gov/2005692542",
+    "https://hdl.loc.gov/loc.pnp/ppmsca.09089"
+  ],
+  "call_number": "NYWTS - SUBJ/GEOG--Lighthouses--Stepping Stones Lighthouse [item] [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Ravenna, Al, photographer"
+  ],
+  "contributors": [
+    {
+      "ravenna, al": "https://www.loc.gov/search/?fa=contributor:ravenna,+al&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2016-04-21T03:42:25Z",
+  "created_published": [
+    "1958 January 23."
+  ],
+  "created_published_date": "1958 January 23.",
+  "date": "1958-01-01",
+  "dates": [
+    {
+      "1958": "https://www.loc.gov/search/?dates=1958/1958&fa=online-format:image&fo=json"
+    }
+  ],
+  "description": [
+    "1 photographic print."
+  ],
+  "digital_id": [
+    "ppmsca 09089 //hdl.loc.gov/loc.pnp/ppmsca.09089"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-08-25T09:47:55.308Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/cph/item/2005692542/#cph",
+    "http://lccn.loc.gov/2005692542#catalog-split-03"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Photographic prints--1950-1960."
+  ],
+  "genre": [
+    "Photographic prints--1950-1960"
+  ],
+  "group": [
+    "cph",
+    "catalog-split-03",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-03",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2005692542/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089_150px.jpg#h=150&w=122",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089t.gif#h=150&w=122",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089r.jpg#h=640&w=522",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089v.jpg#h=1024&w=835"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "NYWTS - SUBJ/GEOG--Lighthouses--Stepping Stones Lighthouse [item] [P&P]",
+    "contributors": [
+      "Ravenna, Al, photographer."
+    ],
+    "control_number": "2005692542",
+    "created": "2016-04-21T03:42:25Z",
+    "created_published": "1958 January 23.",
+    "created_published_date": "1958 January 23.",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Ravenna%2C%20Al&co=cph",
+        "role": "photographer",
+        "title": "Ravenna, Al"
+      }
+    ],
+    "date": "1958 January 23.",
+    "digital_id": [
+      "ppmsca 09089 //hdl.loc.gov/loc.pnp/ppmsca.09089"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1950-1960.&co=cph",
+        "title": "Photographic prints--1950-1960."
+      }
+    ],
+    "genre": [
+      "Photographic prints--1950-1960"
+    ],
+    "id": "2005692542",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2005692542/",
+    "location": [
+      "New York (State)"
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2005692542/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mediums": [
+      "1 photographic print."
+    ],
+    "modified": "2016-04-21T03:42:25Z",
+    "notes": [
+      "Title devised by Library staff.",
+      "NYWT&S staff photograph.",
+      "Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)."
+    ],
+    "other_control_numbers": [
+      "14078235"
+    ],
+    "part_of": "New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29&co=cph",
+        "longitude": "",
+        "title": "New York (State)"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+    "reproduction_number": "LC-DIG-ppmsca-09089 (digital file from original photograph)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.09089"
+    ],
+    "rights_advisory": "No known copyright restriction. For information see \"New York World-Telegram & ...,\" https://www.loc.gov/rr/print/res/076_nyw.html",
+    "rights_information": "No known copyright restriction. For information see \"New York World-Telegram & ...,\" https://www.loc.gov/rr/print/res/076_nyw.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089r.jpg",
+    "sort_date": "1958",
+    "source_collection": [
+      "New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)"
+    ],
+    "source_created": "2005-08-17T00:00:00Z",
+    "source_modified": "2012-07-20T20:29:23Z",
+    "stmt_of_responsibility": "World Telegram & Sun photo by Al. Ravenna.",
+    "subject_headings": [
+      "Lighthouses--New York (State)--1950-1960.",
+      "New York (State)"
+    ],
+    "subjects": [
+      "Lighthouses--New York (State)--1950-1960"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089_150px.jpg",
+    "title": "[Three men in a boat appear to be leaving Stepping Stones Lighthouse, also referred to Hudson-Athens Lighthouse, Hudson Rier, New York]"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2005692542",
+  "link": "https://www.loc.gov/pictures/item/2005692542/",
+  "location": [
+    "new york"
+  ],
+  "locations": [
+    {
+      "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+    }
+  ],
+  "marc": "https://www.loc.gov/pictures/item/2005692542/marc/",
+  "medium": [
+    "1 photographic print."
+  ],
+  "medium_brief": "1 photographic print.",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2016-04-21T03:42:25Z",
+  "notes": [
+    "Title devised by Library staff.",
+    "NYWT&S staff photograph.",
+    "Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)."
+  ],
+  "number": [
+    "http://www.loc.gov/item/14078235",
+    "2012-07-20t20:29:23",
+    "2005692542"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/14078235"
+  ],
+  "number_lccn": [
+    "2005692542"
+  ],
+  "number_source_modified": [
+    "2012-07-20t20:29:23"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "14078235"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2005692542/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2005692542/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2005692542/dc"
+    }
+  ],
+  "other_title": [],
+  "partof": [
+    {
+      "count": 122188,
+      "title": "miscellaneous items in high demand",
+      "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1487574,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29&co=cph",
+      "longitude": "",
+      "title": "New York (State)"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2005692542&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+  ],
+  "reproduction_number": "LC-DIG-ppmsca-09089 (digital file from original photograph)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/ppmsca.09089"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from digital file from original item",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089_150px.jpg",
+      "url": "https://www.loc.gov/resource/ppmsca.09089/"
+    }
+  ],
+  "rights": [],
+  "rights_advisory": "No known copyright restriction. For information see \"New York World-Telegram & ...,\" https://www.loc.gov/rr/print/res/076_nyw.html",
+  "rights_information": "No known copyright restriction. For information see \"New York World-Telegram & ...,\" https://www.loc.gov/rr/print/res/076_nyw.html",
+  "score": 19.40206,
+  "shard": "00",
+  "shelf_id": "NYWTS - SUBJ/GEOG--Lighthouses--Stepping Stones Lighthouse [item] [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1958",
+  "source_collection": "New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)",
+  "source_created": "2005-08-17T00:00:00Z",
+  "source_modified": "2012-07-20T20:29:23Z",
+  "stmt_of_responsibility": "World Telegram & Sun photo by Al. Ravenna.",
+  "subject": [
+    "lighthouses",
+    "new york (state)",
+    "photographic prints"
+  ],
+  "subject_headings": [
+    "Lighthouses--New York (State)--1950-1960"
+  ],
+  "subjects": [
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+    },
+    {
+      "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09089_150px.jpg",
+  "timestamp": "2022-05-02T02:42:18.107Z",
+  "title": "[Three men in a boat appear to be leaving Stepping Stones Lighthouse, also referred to Hudson-Athens Lighthouse, Hudson Rier, New York] / World Telegram & Sun photo by Al. Ravenna.",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2005692542/"
+}

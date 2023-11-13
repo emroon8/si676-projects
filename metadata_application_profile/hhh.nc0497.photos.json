@@ -1,0 +1,822 @@
+{
+  "_version_": 1782476248946049024,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/nc0497/",
+    "http://www.loc.gov/item/nc0497/",
+    "http://www.loc.gov/pictures/item/nc0497/",
+    "https://www.loc.gov/pictures/collection/hh/item/nc0497/",
+    "http://www.loc.gov/pictures/collection/hh/item/nc0497/",
+    "https://cdn.loc.gov/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497data.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497data.pdf",
+    "https://cdn.loc.gov/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497cap.pdf",
+    "http://cdn.loc.gov/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=photograph: nc0497&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://stage.loc.gov/pictures/search/?q=photograph: nc0497&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "https://stage.loc.gov/pictures/search/?q=drawing: nc0497&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://stage.loc.gov/pictures/search/?q=drawing: nc0497&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+    "http://www.loc.gov/resource/hhh.nc0497data/",
+    "http://www.loc.gov/resource/hhh.nc0497cap/",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet/",
+    "http://www.loc.gov/resource/hhh.nc0497.photos/",
+    "http://www.loc.gov/resource/hhh.nc0497.photos",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212426p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212427p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212428p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212429p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212430p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212431p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212432p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212433p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212434p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212435p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212436p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212437p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212438p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212439p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212440p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212441p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212442p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212443p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212444p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212445p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212446p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212447p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212448p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212449p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212450p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212451p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212452p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212453p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212454p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212455p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212456p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212457p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212458p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212459p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212460p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212461p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212462p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212463p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212464p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212465p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212466p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212467p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212468p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212469p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212470p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212471p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212472p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212473p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212474p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212475p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212476p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212477p",
+    "http://www.loc.gov/resource/hhh.nc0497.photos.212478p",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00001a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00002a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00003a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00004a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00005a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00006a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00007a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00008a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00009a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00010a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00011a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00012a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00013a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00014a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00015a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00016a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00017a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00018a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00019a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00020a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00021a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00022a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00023a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00024a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00025a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00026a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00027a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00028a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00029a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00030a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00031a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00032a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00033a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00034a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00035a",
+    "http://www.loc.gov/resource/hhh.nc0497.sheet.00036a"
+  ],
+  "call_number": "HABS NC-395",
+  "campaigns": [],
+  "contributor_names": [
+    "Historic American Buildings Survey, creator",
+    "U.S. Light-House Board",
+    "Stetson, Dexter",
+    "Elliot, George H.",
+    "U.S. Coast Guard",
+    "Hains, Peter C.",
+    "Smith, Nicholas M.",
+    "Andrews & Johnson",
+    "McClenahan & Brothers",
+    "Paulding, Kemble & Company",
+    "Phoenix Iron Works",
+    "Barbier & Fenestre",
+    "Pleasonton, Stephen",
+    "Lewis, Winslow",
+    "Fresnel, Augustin Jean",
+    "Croteau, Todd A., project manager",
+    "Christianson, Justine, transmitter",
+    "Clifford , Candace, historian",
+    "Womack, James M., photographer",
+    "Flores, Roland, delineator",
+    "Conner, Lisa, delineator",
+    "Buono, Jon A., photographer",
+    "Lowe, Jet, photographer"
+  ],
+  "contributors": [
+    {
+      "andrews & johnson": "https://www.loc.gov/search/?fa=contributor:andrews+%26+johnson&fo=json"
+    },
+    {
+      "barbier & fenestre": "https://www.loc.gov/search/?fa=contributor:barbier+%26+fenestre&fo=json"
+    },
+    {
+      "buono, jon a.": "https://www.loc.gov/search/?fa=contributor:buono,+jon+a.&fo=json"
+    },
+    {
+      "christianson, justine": "https://www.loc.gov/search/?fa=contributor:christianson,+justine&fo=json"
+    },
+    {
+      "clifford , candace": "https://www.loc.gov/search/?fa=contributor:clifford+,+candace&fo=json"
+    },
+    {
+      "conner, lisa": "https://www.loc.gov/search/?fa=contributor:conner,+lisa&fo=json"
+    },
+    {
+      "croteau, todd a.": "https://www.loc.gov/search/?fa=contributor:croteau,+todd+a.&fo=json"
+    },
+    {
+      "elliot, george h.": "https://www.loc.gov/search/?fa=contributor:elliot,+george+h.&fo=json"
+    },
+    {
+      "flores, roland": "https://www.loc.gov/search/?fa=contributor:flores,+roland&fo=json"
+    },
+    {
+      "fresnel, augustin jean": "https://www.loc.gov/search/?fa=contributor:fresnel,+augustin+jean&fo=json"
+    },
+    {
+      "hains, peter c.": "https://www.loc.gov/search/?fa=contributor:hains,+peter+c.&fo=json"
+    },
+    {
+      "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+    },
+    {
+      "lewis, winslow": "https://www.loc.gov/search/?fa=contributor:lewis,+winslow&fo=json"
+    },
+    {
+      "lowe, jet": "https://www.loc.gov/search/?fa=contributor:lowe,+jet&fo=json"
+    },
+    {
+      "mcclenahan & brothers": "https://www.loc.gov/search/?fa=contributor:mcclenahan+%26+brothers&fo=json"
+    },
+    {
+      "paulding, kemble & company": "https://www.loc.gov/search/?fa=contributor:paulding,+kemble+%26+company&fo=json"
+    },
+    {
+      "phoenix iron works": "https://www.loc.gov/search/?fa=contributor:phoenix+iron+works&fo=json"
+    },
+    {
+      "pleasonton, stephen": "https://www.loc.gov/search/?fa=contributor:pleasonton,+stephen&fo=json"
+    },
+    {
+      "smith, nicholas m.": "https://www.loc.gov/search/?fa=contributor:smith,+nicholas+m.&fo=json"
+    },
+    {
+      "stetson, dexter": "https://www.loc.gov/search/?fa=contributor:stetson,+dexter&fo=json"
+    },
+    {
+      "u.s. coast guard": "https://www.loc.gov/search/?fa=contributor:u.s.+coast+guard&fo=json"
+    },
+    {
+      "u.s. light-house board": "https://www.loc.gov/search/?fa=contributor:u.s.+light-house+board&fo=json"
+    },
+    {
+      "womack, james m.": "https://www.loc.gov/search/?fa=contributor:womack,+james+m.&fo=json"
+    }
+  ],
+  "control_number": "nc0497",
+  "created": "2023-10-20T21:45:57Z",
+  "created_published": [
+    "Documentation compiled after 1933"
+  ],
+  "created_published_date": "Documentation compiled after 1933",
+  "description": [
+    "Photo(s): 53 | Measured Drawing(s): 36 | Data Page(s): 39 | Photo Caption Page(s): 6"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-11-13T18:49:06.101Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/hh/item/nc0497/#hh-4"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "group": [
+    "hh-4",
+    "habshaer-group-4"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/nc0497/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426p_150px.jpg#h=121&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426pr.jpg#h=516&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426pv.jpg#h=826&w=1024"
+  ],
+  "index": 24,
+  "item": {
+    "call_number": "HABS NC-395",
+    "contributor_names": [
+      "U.S. Light-House Board,  ",
+      "Stetson, Dexter,  ",
+      "Elliot, George H.,  ",
+      "U.S. Coast Guard,  ",
+      "Hains, Peter C.,  ",
+      "Smith, Nicholas M.,  ",
+      "Andrews & Johnson,  ",
+      "McClenahan & Brothers,  ",
+      "Paulding, Kemble & Company,  ",
+      "Phoenix Iron Works,  ",
+      "Barbier & Fenestre,  ",
+      "Pleasonton, Stephen,  ",
+      "Lewis, Winslow,  ",
+      "Fresnel, Augustin Jean,  ",
+      "Croteau, Todd A., project manager ",
+      "Christianson, Justine, transmitter ",
+      "Clifford , Candace, historian ",
+      "Womack, James M., photographer ",
+      "Flores, Roland, delineator ",
+      "Conner, Lisa, delineator ",
+      "Buono, Jon A., photographer ",
+      "Lowe, Jet, photographer "
+    ],
+    "control_number": "nc0497",
+    "created": "2023-10-20T21:45:57Z",
+    "created_published": "Documentation compiled after 1933",
+    "created_published_date": "Documentation compiled after 1933",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+        "role": "creator",
+        "title": "Historic American Buildings Survey"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Light-House%20Board&co=hh",
+        "role": "",
+        "title": "U.S. Light-House Board"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Stetson%2C%20Dexter&co=hh",
+        "role": "",
+        "title": "Stetson, Dexter"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Elliot%2C%20George%20H.&co=hh",
+        "role": "",
+        "title": "Elliot, George H."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=U.S.%20Coast%20Guard&co=hh",
+        "role": "",
+        "title": "U.S. Coast Guard"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hains%2C%20Peter%20C.&co=hh",
+        "role": "",
+        "title": "Hains, Peter C."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Smith%2C%20Nicholas%20M.&co=hh",
+        "role": "",
+        "title": "Smith, Nicholas M."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Andrews%20%26%20Johnson&co=hh",
+        "role": "",
+        "title": "Andrews & Johnson"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=McClenahan%20%26%20Brothers&co=hh",
+        "role": "",
+        "title": "McClenahan & Brothers"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Paulding%2C%20Kemble%20%26%20Company&co=hh",
+        "role": "",
+        "title": "Paulding, Kemble & Company"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Phoenix%20Iron%20Works&co=hh",
+        "role": "",
+        "title": "Phoenix Iron Works"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Barbier%20%26%20Fenestre&co=hh",
+        "role": "",
+        "title": "Barbier & Fenestre"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Pleasonton%2C%20Stephen&co=hh",
+        "role": "",
+        "title": "Pleasonton, Stephen"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lewis%2C%20Winslow&co=hh",
+        "role": "",
+        "title": "Lewis, Winslow"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Fresnel%2C%20Augustin%20Jean&co=hh",
+        "role": "",
+        "title": "Fresnel, Augustin Jean"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Croteau%2C%20Todd%20A.&co=hh",
+        "role": "project manager",
+        "title": "Croteau, Todd A."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Christianson%2C%20Justine&co=hh",
+        "role": "transmitter",
+        "title": "Christianson, Justine"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Clifford%20%2C%20Candace&co=hh",
+        "role": "historian",
+        "title": "Clifford , Candace"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Womack%2C%20James%20M.&co=hh",
+        "role": "photographer",
+        "title": "Womack, James M."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Flores%2C%20Roland&co=hh",
+        "role": "delineator",
+        "title": "Flores, Roland"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Conner%2C%20Lisa&co=hh",
+        "role": "delineator",
+        "title": "Conner, Lisa"
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Buono%2C%20Jon%20A.&co=hh",
+        "role": "photographer",
+        "title": "Buono, Jon A."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet&co=hh",
+        "role": "photographer",
+        "title": "Lowe, Jet"
+      }
+    ],
+    "display_offsite": true,
+    "id": "nc0497",
+    "latitude / longitude": "35.818522,-75.56324",
+    "link": "https://www.loc.gov/pictures/item/nc0497/",
+    "medium_brief": "Photo(s): 53, Measured Drawing(s): 36, Data Page(s): 39, Photo Caption Page(s): 6",
+    "mediums": [
+      "Photo(s): 53 ",
+      "Measured Drawing(s): 36 ",
+      "Data Page(s): 39 ",
+      "Photo Caption Page(s): 6 "
+    ],
+    "modified": "2023-10-21T04:36:13Z",
+    "notes": [
+      "Significance: Bodie Island Light Station served as an important aid to navigation in a system of lighthouses guiding mariners along the hazardous waters of the Outer Banks of North Carolina, often referred to as the \"graveyard of the Atlantic.\"  The lighthouses on the Outer Banks guided both national and international shipping plying along the coast.  Bodie Island Light, first established in 1848, was the only light between Cape Henry at the mouth of the Chesapeake Bay to the north and Cape Hatteras Light to the south, until the Currituck Light was established to the north in 1875.  The current tower, built in 1872, reflects a standardized design used for many first-order lighthouses built by the U.S. Light-House Board.  The station and its setting retain a nineteenth century appearance with few modifications.  Its original Fresnel lens is still operational, and the station continues as an active aid to navigation and as a popular tourist destination in Cape Hatteras National Seashore. ",
+      "Unprocessed Field note material exists for this structure: N940 ",
+      "Survey number: HABS NC-395 ",
+      "Building/structure dates: 1871-1872 Initial Construction ",
+      "National Register of Historic Places NRIS Number: 03000607 "
+    ],
+    "other_title": [
+      "Cape Hatteras National Seashore"
+    ],
+    "part_of": "Historic American Buildings Survey (Library of Congress)",
+    "part_of_group": "Survey Number nc0497",
+    "place": [
+      {
+        "latitude": "35.818522",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=North%20Carolina--Dare%20County--Nags%20Head&co=hh",
+        "longitude": "-75.56324",
+        "title": "North Carolina--Dare County--Nags Head"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497cap.pdf",
+      "https://stage.loc.gov/pictures/search/?q=Photograph: nc0497&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+      "https://stage.loc.gov/pictures/search/?q=Drawing: nc0497&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426p_150px.jpg?q=nc0497.photos.212426p&c=53&st=gallery",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426pr.jpg?q=nc0497.photos.212426p&c=53&st=gallery",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2023-10-20T21:45:00Z",
+    "subject_headings": [
+      "lighthouses",
+      "transportation",
+      "navigation",
+      "safety",
+      "domestic life",
+      "building deterioration",
+      "adaptive reuse",
+      "interpretation",
+      "maritime",
+      "keeper's houses",
+      "oil houses",
+      "spiral stairs",
+      "lanterns",
+      "board & batten siding",
+      "parking lots",
+      "stoops",
+      "wells",
+      "brick chimneys",
+      "stone foundations",
+      "brick buildings",
+      "concrete walkways",
+      "casement windows",
+      "round-topped windows",
+      "people",
+      "rail fences",
+      "Fresnel lenses",
+      "cast ironwork",
+      "wrought ironwork",
+      "tile floors",
+      "stonework (marble)",
+      "newels",
+      "landings (stair components)",
+      "brackets (structural elements)",
+      "finials",
+      "stonework (granite)",
+      "stone foundations",
+      "North Carolina--Dare County--Nags Head"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426p_150px.jpg?q=nc0497.photos.212426p&c=53&st=gallery",
+    "title": "Bodie Island Light Station, Off Highway 12, Nags Head, Dare County, NC"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "latitude / longitude": "35.818522,-75.56324",
+  "latlong": [
+    35.818522,
+    -75.56324
+  ],
+  "link": "https://www.loc.gov/pictures/item/nc0497/",
+  "location": [
+    "dare county",
+    "nags head",
+    "north carolina"
+  ],
+  "location_str": "",
+  "locations": [
+    {
+      "dare county": "https://www.loc.gov/search/?fa=location:dare+county&fo=json"
+    },
+    {
+      "nags head": "https://www.loc.gov/search/?fa=location:nags+head&fo=json"
+    },
+    {
+      "north carolina": "https://www.loc.gov/search/?fa=location:north+carolina&fo=json"
+    }
+  ],
+  "locations_str": [
+    null
+  ],
+  "lonlat": [
+    -75.56324,
+    35.818522
+  ],
+  "medium": [
+    "Photo(s): 53 ",
+    "Measured Drawing(s): 36 ",
+    "Data Page(s): 39 ",
+    "Photo Caption Page(s): 6 "
+  ],
+  "medium_brief": "Photo(s): 53, Measured Drawing(s): 36, Data Page(s): 39, Photo Caption Page(s): 6",
+  "mime_type": [
+    "image/gif",
+    "application/pdf"
+  ],
+  "modified": "2023-10-21T04:36:13Z",
+  "notes": [
+    "Significance: Bodie Island Light Station served as an important aid to navigation in a system of lighthouses guiding mariners along the hazardous waters of the Outer Banks of North Carolina, often referred to as the \"graveyard of the Atlantic.\"  The lighthouses on the Outer Banks guided both national and international shipping plying along the coast.  Bodie Island Light, first established in 1848, was the only light between Cape Henry at the mouth of the Chesapeake Bay to the north and Cape Hatteras Light to the south, until the Currituck Light was established to the north in 1875.  The current tower, built in 1872, reflects a standardized design used for many first-order lighthouses built by the U.S. Light-House Board.  The station and its setting retain a nineteenth century appearance with few modifications.  Its original Fresnel lens is still operational, and the station continues as an active aid to navigation and as a popular tourist destination in Cape Hatteras National Seashore. ",
+    "Unprocessed Field note material exists for this structure: N940 ",
+    "Survey number: HABS NC-395 ",
+    "Building/structure dates: 1871-1872 Initial Construction ",
+    "National Register of Historic Places NRIS Number: 03000607 "
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [],
+  "other_title": [],
+  "part_of_group": "Survey Number nc0497",
+  "partof": [
+    {
+      "count": 45368,
+      "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+    },
+    {
+      "count": 507282,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "35.818522",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=North%20Carolina--Dare%20County--Nags%20Head&co=hh",
+      "longitude": "-75.56324",
+      "title": "North Carolina--Dare County--Nags Head"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "hh",
+    "survey"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=nc0497&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproductions": [],
+  "resource_links": [
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497data.pdf",
+    "https://tile.loc.gov/storage-services/master/pnp/habshaer/nc/nc0400/nc0497/data/nc0497cap.pdf",
+    "https://stage.loc.gov/pictures/search/?q=Photograph: nc0497&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+    "https://stage.loc.gov/pictures/search/?q=Drawing: nc0497&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+  ],
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS NC-395 ",
+      "files": 53,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426p_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.nc0497.photos"
+    },
+    {
+      "caption": "Drawings from Survey HABS NC-395 ",
+      "files": 36,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/sheet/00001_150px.jpg",
+      "url": "https://www.loc.gov/resource/hhh.nc0497.sheet"
+    },
+    {
+      "caption": "Data Pages from Survey HABS NC-395 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    },
+    {
+      "caption": "Photo Captions from Survey HABS NC-395 ",
+      "files": 1,
+      "image": "/static/images/original-format/manuscript-mixed-material.svg"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+  "score": 37.635475,
+  "shard": "00",
+  "shelf_id": "HABS NC-395",
+  "site": [
+    "pictures"
+  ],
+  "source_collection": "Historic American Buildings Survey (Library of Congress)",
+  "source_created": "1970-01-01T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "lighthouses",
+    "keeper's houses",
+    "round-topped windows",
+    "people",
+    "interpretation",
+    "lanterns",
+    "spiral stairs",
+    "stone foundations",
+    "concrete walkways",
+    "finials",
+    "brackets (structural elements)",
+    "stonework (marble)",
+    "building deterioration",
+    "brick chimneys",
+    "rail fences",
+    "stoops",
+    "cast ironwork",
+    "landings (stair components)",
+    "safety",
+    "oil houses",
+    "transportation",
+    "stonework (granite)",
+    "board & batten siding",
+    "maritime",
+    "newels",
+    "wells",
+    "domestic life",
+    "adaptive reuse",
+    "brick buildings",
+    "parking lots",
+    "tile floors",
+    "wrought ironwork",
+    "fresnel lenses",
+    "navigation",
+    "casement windows"
+  ],
+  "subject_headings": [
+    "lighthouses",
+    "transportation",
+    "navigation",
+    "safety",
+    "domestic life",
+    "building deterioration",
+    "adaptive reuse",
+    "interpretation",
+    "maritime",
+    "keeper's houses",
+    "oil houses",
+    "spiral stairs",
+    "lanterns",
+    "board & batten siding",
+    "parking lots",
+    "stoops",
+    "wells",
+    "brick chimneys",
+    "stone foundations",
+    "brick buildings",
+    "concrete walkways",
+    "casement windows",
+    "round-topped windows",
+    "people",
+    "rail fences",
+    "Fresnel lenses",
+    "cast ironwork",
+    "wrought ironwork",
+    "tile floors",
+    "stonework (marble)",
+    "newels",
+    "landings (stair components)",
+    "brackets (structural elements)",
+    "finials",
+    "stonework (granite)",
+    "stone foundations",
+    "North Carolina--Dare County--Nags Head"
+  ],
+  "subjects": [
+    {
+      "adaptive reuse": "https://www.loc.gov/search/?fa=subject:adaptive+reuse&fo=json"
+    },
+    {
+      "board & batten siding": "https://www.loc.gov/search/?fa=subject:board+%26+batten+siding&fo=json"
+    },
+    {
+      "brackets (structural elements)": "https://www.loc.gov/search/?fa=subject:brackets+%28structural+elements%29&fo=json"
+    },
+    {
+      "brick buildings": "https://www.loc.gov/search/?fa=subject:brick+buildings&fo=json"
+    },
+    {
+      "brick chimneys": "https://www.loc.gov/search/?fa=subject:brick+chimneys&fo=json"
+    },
+    {
+      "building deterioration": "https://www.loc.gov/search/?fa=subject:building+deterioration&fo=json"
+    },
+    {
+      "casement windows": "https://www.loc.gov/search/?fa=subject:casement+windows&fo=json"
+    },
+    {
+      "cast ironwork": "https://www.loc.gov/search/?fa=subject:cast+ironwork&fo=json"
+    },
+    {
+      "concrete walkways": "https://www.loc.gov/search/?fa=subject:concrete+walkways&fo=json"
+    },
+    {
+      "domestic life": "https://www.loc.gov/search/?fa=subject:domestic+life&fo=json"
+    },
+    {
+      "finials": "https://www.loc.gov/search/?fa=subject:finials&fo=json"
+    },
+    {
+      "fresnel lenses": "https://www.loc.gov/search/?fa=subject:fresnel+lenses&fo=json"
+    },
+    {
+      "interpretation": "https://www.loc.gov/search/?fa=subject:interpretation&fo=json"
+    },
+    {
+      "keeper's houses": "https://www.loc.gov/search/?fa=subject:keeper%27s+houses&fo=json"
+    },
+    {
+      "landings (stair components)": "https://www.loc.gov/search/?fa=subject:landings+%28stair+components%29&fo=json"
+    },
+    {
+      "lanterns": "https://www.loc.gov/search/?fa=subject:lanterns&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "maritime": "https://www.loc.gov/search/?fa=subject:maritime&fo=json"
+    },
+    {
+      "navigation": "https://www.loc.gov/search/?fa=subject:navigation&fo=json"
+    },
+    {
+      "newels": "https://www.loc.gov/search/?fa=subject:newels&fo=json"
+    },
+    {
+      "oil houses": "https://www.loc.gov/search/?fa=subject:oil+houses&fo=json"
+    },
+    {
+      "parking lots": "https://www.loc.gov/search/?fa=subject:parking+lots&fo=json"
+    },
+    {
+      "people": "https://www.loc.gov/search/?fa=subject:people&fo=json"
+    },
+    {
+      "rail fences": "https://www.loc.gov/search/?fa=subject:rail+fences&fo=json"
+    },
+    {
+      "round-topped windows": "https://www.loc.gov/search/?fa=subject:round-topped+windows&fo=json"
+    },
+    {
+      "safety": "https://www.loc.gov/search/?fa=subject:safety&fo=json"
+    },
+    {
+      "spiral stairs": "https://www.loc.gov/search/?fa=subject:spiral+stairs&fo=json"
+    },
+    {
+      "stone foundations": "https://www.loc.gov/search/?fa=subject:stone+foundations&fo=json"
+    },
+    {
+      "stonework (granite)": "https://www.loc.gov/search/?fa=subject:stonework+%28granite%29&fo=json"
+    },
+    {
+      "stonework (marble)": "https://www.loc.gov/search/?fa=subject:stonework+%28marble%29&fo=json"
+    },
+    {
+      "stoops": "https://www.loc.gov/search/?fa=subject:stoops&fo=json"
+    },
+    {
+      "tile floors": "https://www.loc.gov/search/?fa=subject:tile+floors&fo=json"
+    },
+    {
+      "transportation": "https://www.loc.gov/search/?fa=subject:transportation&fo=json"
+    },
+    {
+      "wells": "https://www.loc.gov/search/?fa=subject:wells&fo=json"
+    },
+    {
+      "wrought ironwork": "https://www.loc.gov/search/?fa=subject:wrought+ironwork&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/nc/nc0400/nc0497/photos/212426p_150px.jpg?q=nc0497.photos.212426p&c=53&st=gallery",
+  "timestamp": "2023-11-13T18:56:56.980Z",
+  "title": "Bodie Island Light Station, Off Highway 12, Nags Head, Dare County, NC",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/nc0497/"
+}

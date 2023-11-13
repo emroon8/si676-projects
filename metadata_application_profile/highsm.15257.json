@@ -1,0 +1,422 @@
+{
+  "_version_": 1730900952581406720,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2011633450/",
+    "http://www.loc.gov/item/2011633450/",
+    "http://www.loc.gov/pictures/item/2011633450/",
+    "https://www.loc.gov/pictures/collection/highsm/item/2011633450/",
+    "http://www.loc.gov/pictures/collection/highsm/item/2011633450/",
+    "http://www.loc.gov/resource/highsm.15257/",
+    "https://hdl.loc.gov/loc.pnp/highsm.15257",
+    "http://lccn.loc.gov/2011633450"
+  ],
+  "call_number": "LC-HS503- 3508 (ONLINE) [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Highsmith, Carol M., 1946-, photographer"
+  ],
+  "contributors": [
+    {
+      "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2017-06-27T04:03:09Z",
+  "created_published": [
+    "[between 1980 and 2006]"
+  ],
+  "created_published_date": "[between 1980 and 2006]",
+  "date": "1980-01-01",
+  "dates": [
+    {
+      "1980": "https://www.loc.gov/search/?dates=1980/1980&fa=online-format:image&fo=json"
+    }
+  ],
+  "description": [
+    "1 transparency : color ; 4 x 5 in. or smaller."
+  ],
+  "digital_id": [
+    "highsm 15257 //hdl.loc.gov/loc.pnp/highsm.15257"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-08-30T23:45:38.836Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/highsm/item/2011633450/#highsm",
+    "http://lccn.loc.gov/2011633450#catalog-split-09"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Transparencies--color--1980-2010."
+  ],
+  "genre": [
+    "Transparencies--Color--1980-2010"
+  ],
+  "group": [
+    "highsm",
+    "catalog-split-09",
+    "catalog",
+    "carol-m-highsmith",
+    "main-catalog-split-09",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2011633450/",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15200:15257/full/pct:6.25/0/default.jpg#h=456&w=354",
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15200:15257/full/pct:12.5/0/default.jpg#h=913&w=709",
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15200:15257/full/pct:25/0/default.jpg#h=1827&w=1419"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LC-HS503- 3508 (ONLINE) [P&P]",
+    "contributors": [
+      "Highsmith, Carol M., 1946- photographer."
+    ],
+    "control_number": "2011633450",
+    "created": "2017-06-27T04:03:09Z",
+    "created_published": "[between 1980 and 2006]",
+    "created_published_date": "[between 1980 and 2006]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+        "role": "photographer",
+        "title": "Highsmith, Carol M., 1946-"
+      }
+    ],
+    "date": "[between 1980 and 2006]",
+    "digital_id": [
+      "highsm 15257 //hdl.loc.gov/loc.pnp/highsm.15257"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Transparencies--color--1980-2010.&co=highsm",
+        "title": "Transparencies--color--1980-2010."
+      }
+    ],
+    "genre": [
+      "Transparencies--Color--1980-2010"
+    ],
+    "id": "2011633450",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2011633450/",
+    "marc": "https://www.loc.gov/pictures/item/2011633450/marc/",
+    "medium": [
+      "1 transparency : color ; 4 x 5 in. or smaller."
+    ],
+    "medium_brief": "1 transparency :",
+    "mediums": [
+      "1 transparency : color ; 4 x 5 in. or smaller."
+    ],
+    "modified": "2017-06-27T04:03:09Z",
+    "notes": [
+      "Digital image produced by Carol M. Highsmith to represent her original film transparency; some details may differ between the film and the digital images.",
+      "Title, date, and keywords provided by the photographer.",
+      "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Gift and purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:124).",
+      "Forms part of the Selects Series in the Carol M. Highsmith Archive."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2011633450",
+      "https://www.loc.gov/item/hig2012000198"
+    ],
+    "other_control_numbers": [
+      "17153601",
+      "hig2012000198"
+    ],
+    "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Barker&co=highsm",
+        "longitude": "",
+        "title": "New York (State)--Barker"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-highsm-15257 (digital file from original)\nLC-HS503-3508 (color film transparency)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.15257"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/15200/15257_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/15200/15257r.jpg",
+    "sort_date": "1980",
+    "source_collection": [
+      "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+    ],
+    "source_created": "2012-01-23T00:00:00Z",
+    "source_modified": "2017-06-20T14:13:51Z",
+    "subject_headings": [
+      "United States--New York (State)--Barker.",
+      "America",
+      "lighthouses",
+      "Spiral staircases",
+      "Thirty Mile Point Lighthouse",
+      "Golden Hill State Park",
+      "New York (State)--Barker"
+    ],
+    "subjects": [
+      "United States--New York (State)--Barker",
+      "America",
+      "Lighthouses",
+      "Spiral staircases",
+      "Thirty Mile Point Lighthouse",
+      "Golden Hill State Park"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/15200/15257_150px.jpg",
+    "title": "Spiral staircase at Thirty Mile Point Lighthouse overlooking Lake Ontario in Golden Hill State Park, Barker, New York"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2011633450",
+  "link": "https://www.loc.gov/pictures/item/2011633450/",
+  "location": [
+    "united states",
+    "barker",
+    "new york (state)",
+    "new york"
+  ],
+  "location_city": [
+    "barker"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "new york (state)"
+  ],
+  "locations": [
+    {
+      "barker": "https://www.loc.gov/search/?fa=location:barker&fo=json"
+    },
+    {
+      "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location:new+york+%28state%29&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+    }
+  ],
+  "locations_city": [
+    {
+      "barker": "https://www.loc.gov/search/?fa=location_city:barker&fo=json"
+    }
+  ],
+  "locations_country": [
+    {
+      "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+    }
+  ],
+  "locations_state": [
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location_state:new+york+%28state%29&fo=json"
+    }
+  ],
+  "marc": "https://www.loc.gov/pictures/item/2011633450/marc/",
+  "medium": [
+    "1 transparency : color ; 4 x 5 in. or smaller."
+  ],
+  "medium_brief": "1 transparency :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2017-06-27T04:03:09Z",
+  "notes": [
+    "Digital image produced by Carol M. Highsmith to represent her original film transparency; some details may differ between the film and the digital images.",
+    "Title, date, and keywords provided by the photographer.",
+    "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+    "Gift and purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:124).",
+    "Forms part of the Selects Series in the Carol M. Highsmith Archive."
+  ],
+  "number": [
+    "2011633450",
+    "http://www.loc.gov/item/2011633450",
+    "http://www.loc.gov/item/17153601",
+    "2017-06-20t14:13:51",
+    "http://www.loc.gov/item/hig2012000198"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/17153601",
+    "http://www.loc.gov/item/hig2012000198",
+    "http://www.loc.gov/item/2011633450"
+  ],
+  "number_lccn": [
+    "2011633450"
+  ],
+  "number_source_modified": [
+    "2017-06-20t14:13:51"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "17153601",
+    "hig2012000198"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2011633450/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2011633450/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2011633450/dc"
+    }
+  ],
+  "other_title": [],
+  "partof": [
+    {
+      "count": 69100,
+      "title": "highsmith (carol m.) archive",
+      "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1487574,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Barker&co=highsm",
+      "longitude": "",
+      "title": "New York (State)--Barker"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2011633450&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-highsm-15257 (digital file from original)\nLC-HS503-3508 (color film transparency)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/highsm.15257"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/15200/15257t.gif",
+      "url": "https://www.loc.gov/resource/highsm.15257/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.40206,
+  "shard": "00",
+  "shelf_id": "LC-HS503- 3508 (ONLINE) [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1980",
+  "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+  "source_created": "2012-01-23T00:00:00Z",
+  "source_modified": "2017-06-20T14:13:51Z",
+  "subject": [
+    "lighthouses",
+    "america",
+    "color",
+    "barker",
+    "golden hill state park",
+    "thirty mile point lighthouse",
+    "united states",
+    "spiral staircases",
+    "transparencies",
+    "new york (state)"
+  ],
+  "subject_headings": [
+    "United States--New York (State)--Barker",
+    "America",
+    "Lighthouses",
+    "Spiral staircases",
+    "Thirty Mile Point Lighthouse",
+    "Golden Hill State Park"
+  ],
+  "subjects": [
+    {
+      "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+    },
+    {
+      "barker": "https://www.loc.gov/search/?fa=subject:barker&fo=json"
+    },
+    {
+      "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+    },
+    {
+      "golden hill state park": "https://www.loc.gov/search/?fa=subject:golden+hill+state+park&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+    },
+    {
+      "spiral staircases": "https://www.loc.gov/search/?fa=subject:spiral+staircases&fo=json"
+    },
+    {
+      "thirty mile point lighthouse": "https://www.loc.gov/search/?fa=subject:thirty+mile+point+lighthouse&fo=json"
+    },
+    {
+      "transparencies": "https://www.loc.gov/search/?fa=subject:transparencies&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/15200/15257_150px.jpg",
+  "timestamp": "2022-04-23T12:09:42.671Z",
+  "title": "Spiral staircase at Thirty Mile Point Lighthouse overlooking Lake Ontario in Golden Hill State Park, Barker, New York",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2011633450/"
+}

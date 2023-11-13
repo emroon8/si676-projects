@@ -1,0 +1,382 @@
+{
+  "_version_": 1733365166087602176,
+  "access_restricted": false,
+  "aka": [
+    "http://www.loc.gov/pictures/item/2005677910/",
+    "http://www.loc.gov/pictures/collection/stereo/item/2005677910/",
+    "https://hdl.loc.gov/loc.pnp/ppmsca.09090",
+    "https://hdl.loc.gov/loc.pnp/cph.3b05428",
+    "http://www.loc.gov/item/2005677910/",
+    "http://www.loc.gov/resource/ppmsca.09090/",
+    "http://www.loc.gov/resource/cph.3b05428/",
+    "http://lccn.loc.gov/2005677910"
+  ],
+  "call_number": "LOT 7756 [item] [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Centennial Photographic Co., photographer",
+    "Centennial Photographic Co., copyright claimant"
+  ],
+  "contributors": [
+    {
+      "centennial photographic co": "https://www.loc.gov/search/?fa=contributor:centennial+photographic+co&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2014-11-04 06:01:49",
+  "created_published": [
+    "c1876."
+  ],
+  "created_published_date": "c1876.",
+  "date": "1876-01-01",
+  "description": [
+    "1 photographic print on stereo card : stereograph. | Stereograph shows display of a light house and buoys at the 1876 International Exhibition, Philadelphia."
+  ],
+  "digital_id": [
+    "ppmsca 09090 http://hdl.loc.gov/loc.pnp/ppmsca.09090",
+    "cph 3b05428 http://hdl.loc.gov/loc.pnp/cph.3b05428"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-09-01T20:18:32.363Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/stereo/item/2005677910/#stereo",
+    "http://lccn.loc.gov/2005677910#catalog-split-05"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Photographic prints--1870-1880.",
+    "Stereographs--1870-1880."
+  ],
+  "genre": [
+    "Stereographs--1870-1880",
+    "Photographic prints--1870-1880"
+  ],
+  "group": [
+    "stereo",
+    "catalog-split-05",
+    "catalog",
+    "stereograph-cards",
+    "main-catalog-split-05",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2005677910/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090t.gif#h=94&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090r.jpg#h=399&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090v.jpg#h=638&w=1024"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LOT 7756 [item] [P&P]",
+    "contributors": [
+      "Centennial Photographic Co., photographer, copyright claimant."
+    ],
+    "control_number": "2005677910",
+    "created": "2014-11-04 06:01:49",
+    "created_published": "c1876.",
+    "created_published_date": "c1876.",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Centennial%20Photographic%20Co.&co=stereo",
+        "role": "photographer",
+        "title": "Centennial Photographic Co."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Centennial%20Photographic%20Co.&co=stereo",
+        "role": "copyright claimant",
+        "title": "Centennial Photographic Co."
+      }
+    ],
+    "date": "c1876.",
+    "digital_id": [
+      "ppmsca 09090 http://hdl.loc.gov/loc.pnp/ppmsca.09090",
+      "cph 3b05428 http://hdl.loc.gov/loc.pnp/cph.3b05428"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1870-1880.&co=stereo",
+        "title": "Photographic prints--1870-1880."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Stereographs--1870-1880.&co=stereo",
+        "title": "Stereographs--1870-1880."
+      }
+    ],
+    "genre": [
+      "Stereographs--1870-1880",
+      "Photographic prints--1870-1880"
+    ],
+    "id": "2005677910",
+    "link": "https://www.loc.gov/pictures/item/2005677910/",
+    "location": [
+      "Pennsylvania--Philadelphia"
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2005677910/marc/",
+    "medium": [
+      "1 photographic print on stereo card : stereograph."
+    ],
+    "medium_brief": "1 photographic print on stereo card :",
+    "mediums": [
+      "1 photographic print on stereo card : stereograph."
+    ],
+    "modified": "2014-11-04 06:01:49",
+    "notes": [
+      "4529H U.S. Copyright Office.",
+      "Stereo copyrighted by The Centennial Photographic Co., Phila., Pa.",
+      "Title from item.",
+      "U.S. Govt: B."
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Philadelphia&co=stereo",
+        "longitude": "",
+        "title": "Pennsylvania--Philadelphia"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+    "reproduction_number": "LC-DIG-ppmsca-09090 (digital file from original photo)\nLC-USZ62-57609 (b&w film copy neg. of half stereo)",
+    "resource_links": [
+      "http://hdl.loc.gov/loc.pnp/ppmsca.09090",
+      "http://hdl.loc.gov/loc.pnp/cph.3b05428"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090r.jpg",
+    "sort_date": "1876",
+    "source_created": "2005-02-07 00:00:00",
+    "source_modified": "2005-07-25 08:58:03",
+    "stmt_of_responsibility": "Centennial Photographic Co., Philad'a.",
+    "subject_headings": [
+      "Lighthouses--Pennsylvania--Philadelphia--1870-1880.",
+      "Centennial celebrations--Pennsylvania--Philadelphia--1870-1880.",
+      "Buoys--1870-1880.",
+      "Pennsylvania--Philadelphia"
+    ],
+    "subjects": [
+      "Lighthouses--Pennsylvania--Philadelphia--1870-1880",
+      "Centennial celebrations--Pennsylvania--Philadelphia--1870-1880",
+      "Buoys--1870-1880"
+    ],
+    "summary": "Stereograph shows display of a light house and buoys at the 1876 International Exhibition, Philadelphia.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090_150px.jpg",
+    "title": "Light house and buoys"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "latlong": [
+    40.0002777778,
+    -75.0697222222
+  ],
+  "library_of_congress_control_number": "2005677910",
+  "link": "https://www.loc.gov/pictures/item/2005677910/",
+  "location": [
+    "pennsylvania",
+    "philadelphia"
+  ],
+  "location_str": "",
+  "locations": [
+    {
+      "pennsylvania": "https://www.loc.gov/search/?fa=location:pennsylvania&fo=json"
+    },
+    {
+      "philadelphia": "https://www.loc.gov/search/?fa=location:philadelphia&fo=json"
+    }
+  ],
+  "locations_str": [
+    null
+  ],
+  "lonlat": [
+    -75.0697222222,
+    40.0002777778
+  ],
+  "marc": "https://www.loc.gov/pictures/item/2005677910/marc/",
+  "medium": [
+    "1 photographic print on stereo card : stereograph."
+  ],
+  "medium_brief": "1 photographic print on stereo card :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2014-11-04 06:01:49",
+  "notes": [
+    "4529H U.S. Copyright Office.",
+    "Stereo copyrighted by The Centennial Photographic Co., Phila., Pa.",
+    "Title from item.",
+    "U.S. Govt: B."
+  ],
+  "number": [
+    "2005-07-25t08:58:03",
+    "2005677910"
+  ],
+  "number_lccn": [
+    "2005677910"
+  ],
+  "number_source_modified": [
+    "2005-07-25t08:58:03"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2005677910/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2005677910/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2005677910/dc"
+    }
+  ],
+  "other_title": [],
+  "partof": [
+    {
+      "count": 398,
+      "title": "lot 7756",
+      "url": "https://www.loc.gov/search/?fa=partof:lot+7756&fo=json"
+    },
+    {
+      "count": 52820,
+      "title": "stereograph cards",
+      "url": "https://www.loc.gov/collections/stereograph-cards/?fo=json"
+    },
+    {
+      "count": 1006163,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1049947,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1487574,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Philadelphia&co=stereo",
+      "longitude": "",
+      "title": "Pennsylvania--Philadelphia"
+    }
+  ],
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 7756&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=stereo&pk=2005677910&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+  ],
+  "reproduction_number": "LC-DIG-ppmsca-09090 (digital file from original photo)\nLC-USZ62-57609 (b&w film copy neg. of half stereo)",
+  "reproductions": [],
+  "resource_links": [
+    "http://hdl.loc.gov/loc.pnp/ppmsca.09090",
+    "http://hdl.loc.gov/loc.pnp/cph.3b05428"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original photo",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090_150px.jpg",
+      "url": "https://www.loc.gov/resource/ppmsca.09090/"
+    },
+    {
+      "caption": "digital file from b&w film copy neg. of half stereo",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05400/3b05428_150px.jpg",
+      "url": "https://www.loc.gov/resource/cph.3b05428/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/493_ster.html\">Stereographs - Rights and Restrictions Information</a> </p>\n \n"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.40206,
+  "shard": "00",
+  "shelf_id": "LOT 7756 [item] [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1876",
+  "source_created": "2005-02-07 00:00:00",
+  "source_modified": "2005-07-25 08:58:03",
+  "stmt_of_responsibility": "Centennial Photographic Co., Philad'a.",
+  "subject": [
+    "lighthouses",
+    "photographic prints",
+    "pennsylvania",
+    "buoys",
+    "philadelphia",
+    "centennial celebrations",
+    "stereographs"
+  ],
+  "subject_headings": [
+    "Lighthouses--Pennsylvania--Philadelphia--1870-1880",
+    "Centennial celebrations--Pennsylvania--Philadelphia--1870-1880",
+    "Buoys--1870-1880"
+  ],
+  "subjects": [
+    {
+      "buoys": "https://www.loc.gov/search/?fa=subject:buoys&fo=json"
+    },
+    {
+      "centennial celebrations": "https://www.loc.gov/search/?fa=subject:centennial+celebrations&fo=json"
+    },
+    {
+      "lighthouses": "https://www.loc.gov/search/?fa=subject:lighthouses&fo=json"
+    },
+    {
+      "pennsylvania": "https://www.loc.gov/search/?fa=subject:pennsylvania&fo=json"
+    },
+    {
+      "philadelphia": "https://www.loc.gov/search/?fa=subject:philadelphia&fo=json"
+    },
+    {
+      "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+    },
+    {
+      "stereographs": "https://www.loc.gov/search/?fa=subject:stereographs&fo=json"
+    }
+  ],
+  "summary": "Stereograph shows display of a light house and buoys at the 1876 International Exhibition, Philadelphia.",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/09000/09090_150px.jpg",
+  "timestamp": "2022-05-20T16:57:19.570Z",
+  "title": "Light house and buoys / Centennial Photographic Co., Philad'a.",
+  "type": [
+    "photo, print, drawing"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2005677910/"
+}
